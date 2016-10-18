@@ -1,0 +1,1186 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+a	11.c	/^int a()$/;"	f
+b	11.c	/^int b()$/;"	f
+main	11.c	/^int main()$/;"	f
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+UpdateState	vmware-tools-distrib/bin/vm-support	/^UpdateState()$/;"	f
+addGrubFile	vmware-tools-distrib/bin/vm-support	/^addGrubFile()$/;"	f
+addfile	vmware-tools-distrib/bin/vm-support	/^addfile()$/;"	f
+addfiles	vmware-tools-distrib/bin/vm-support	/^addfiles()$/;"	f
+banner	vmware-tools-distrib/bin/vm-support	/^banner()$/;"	f
+checkOutputDir	vmware-tools-distrib/bin/vm-support	/^checkOutputDir()$/;"	f
+cleanup	vmware-tools-distrib/bin/vm-support	/^cleanup()$/;"	f
+error	vmware-tools-distrib/bin/vm-support	/^error()$/;"	f
+runcmd	vmware-tools-distrib/bin/vm-support	/^runcmd()$/;"	f
+stageFreeBSD	vmware-tools-distrib/bin/vm-support	/^stageFreeBSD()$/;"	f
+stageLinux	vmware-tools-distrib/bin/vm-support	/^stageLinux()$/;"	f
+stageSolaris	vmware-tools-distrib/bin/vm-support	/^stageSolaris()$/;"	f
+usage	vmware-tools-distrib/bin/vm-support	/^usage()$/;"	f
+DoesBinaryExist_Prompt	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub DoesBinaryExist_Prompt {$/;"	s
+NOTE	vmware-tools-distrib/bin/vmware-config-tools.pl	/^                              NOTE:  This flag will only work after the system$/;"	l
+Usage	vmware-tools-distrib/bin/vmware-config-tools.pl	/^Usage: $prog_name [OPTION]...$/;"	l
+VMware::Config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^package VMware::Config;$/;"	p
+VT_OPENQRY	vmware-tools-distrib/bin/vmware-config-tools.pl	/^    sub VT_OPENQRY () { 0x5600; }$/;"	s
+addEntDBList	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub addEntDBList {$/;"	s
+addTextToKVEntryInFile	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub addTextToKVEntryInFile {$/;"	s
+append_output	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub append_output {$/;"	s
+assemble_command_line	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub assemble_command_line {$/;"	s
+backup_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub backup_file {$/;"	s
+backup_file_to_restore	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub backup_file_to_restore {$/;"	s
+block_append	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub block_append {$/;"	s
+block_append_with_db_answer_entry	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub block_append_with_db_answer_entry {$/;"	s
+block_insert	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub block_insert {$/;"	s
+block_match	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub block_match {$/;"	s
+block_remove	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub block_remove {$/;"	s
+block_restore	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub block_restore {$/;"	s
+bsd_has_package	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub bsd_has_package {$/;"	s
+bsd_print_pkg_advice	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub bsd_print_pkg_advice {$/;"	s
+build_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub build_module {$/;"	s
+build_vmnet	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub build_vmnet {$/;"	s
+can_build_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub can_build_module {$/;"	s
+change_scsi_timeout	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub change_scsi_timeout {$/;"	s
+check_answer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer {$/;"	s
+check_answer_anyethif	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_anyethif {$/;"	s
+check_answer_availethif	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_availethif {$/;"	s
+check_answer_binpath	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_binpath {$/;"	s
+check_answer_dirpath	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_dirpath {$/;"	s
+check_answer_dirpath_existing	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_dirpath_existing {$/;"	s
+check_answer_editorwizardhelp	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_editorwizardhelp {$/;"	s
+check_answer_headerdir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_headerdir {$/;"	s
+check_answer_inetport	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_inetport {$/;"	s
+check_answer_ip	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_ip {$/;"	s
+check_answer_netname	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_netname {$/;"	s
+check_answer_nettype	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_nettype {$/;"	s
+check_answer_number	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_number {$/;"	s
+check_answer_serialnum	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_serialnum {$/;"	s
+check_answer_timeout	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_timeout {$/;"	s
+check_answer_usergrp	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_usergrp {$/;"	s
+check_answer_vmnet	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_vmnet {$/;"	s
+check_answer_yesno	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_yesno {$/;"	s
+check_answer_yesnohelp	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_answer_yesnohelp {$/;"	s
+check_for_vmw_mods_in_kernel	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_for_vmw_mods_in_kernel {$/;"	s
+check_fuse_available	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_fuse_available {$/;"	s
+check_gcc_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_gcc_version {$/;"	s
+check_if_port_active	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_if_port_active {$/;"	s
+check_if_port_free	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_if_port_free {$/;"	s
+check_if_vmw_installed_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_if_vmw_installed_module {$/;"	s
+check_if_vmware_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_if_vmware_module {$/;"	s
+check_is_running	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_is_running {$/;"	s
+check_link	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_link {$/;"	s
+check_mountpoint_for_tools	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_mountpoint_for_tools {$/;"	s
+check_port_not_registered	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub check_port_not_registered {$/;"	s
+clear	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub clear() {$/;"	s
+compile_module_linux	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub compile_module_linux {$/;"	s
+compute_broadcast	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub compute_broadcast {$/;"	s
+compute_subnet	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub compute_subnet {$/;"	s
+config_usage	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub config_usage {$/;"	s
+configureDesktopFiles	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configureDesktopFiles {$/;"	s
+configureDeviceKitVmmouse	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configureDeviceKitVmmouse {$/;"	s
+configure_X	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_X {$/;"	s
+configure_authd	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_authd {$/;"	s
+configure_auto_kmods	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_auto_kmods {$/;"	s
+configure_autostart	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart {$/;"	s
+configure_autostart_legacy	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart_legacy {$/;"	s
+configure_autostart_legacy_gdm	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart_legacy_gdm {$/;"	s
+configure_autostart_legacy_suse	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart_legacy_suse {$/;"	s
+configure_autostart_legacy_xdm	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart_legacy_xdm {$/;"	s
+configure_autostart_legacy_xsessiond	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart_legacy_xsessiond($$) {$/;"	s
+configure_autostart_xdg	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_autostart_xdg {$/;"	s
+configure_caf	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_caf{$/;"	s
+configure_dev	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_dev {$/;"	s
+configure_dev_flags	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_dev_flags {$/;"	s
+configure_dracut	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_dracut {$/;"	s
+configure_eclipse_plugin	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_eclipse_plugin {$/;"	s
+configure_fonts_dot_conf	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_fonts_dot_conf {$/;"	s
+configure_guestproxy	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_guestproxy {$/;"	s
+configure_initrd_suse	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_initrd_suse {$/;"	s
+configure_kernel_initrd	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_kernel_initrd {$/;"	s
+configure_ld_dot_so	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_ld_dot_so {$/;"	s
+configure_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_module {$/;"	s
+configure_module_bsd	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_module_bsd {$/;"	s
+configure_module_linux	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_module_linux {$/;"	s
+configure_module_solaris	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_module_solaris {$/;"	s
+configure_mon	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_mon {$/;"	s
+configure_pci_dot_handmap	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_pci_dot_handmap {$/;"	s
+configure_pp	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_pp {$/;"	s
+configure_pvscsi	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_pvscsi {$/;"	s
+configure_server	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_server {$/;"	s
+configure_thinprint	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_thinprint {$/;"	s
+configure_tools	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_tools {$/;"	s
+configure_tools_initscripts	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_tools_initscripts {$/;"	s
+configure_udev_scsi	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_udev_scsi {$/;"	s
+configure_updatedb	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_updatedb {$/;"	s
+configure_vgauth	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vgauth{$/;"	s
+configure_vmblock	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vmblock {$/;"	s
+configure_vmci	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vmci {$/;"	s
+configure_vmhgfs	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vmhgfs {$/;"	s
+configure_vmmemctl	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vmmemctl {$/;"	s
+configure_vmsync	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vmsync {$/;"	s
+configure_vmxnet3	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vmxnet3 {$/;"	s
+configure_vsock	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_vsock {$/;"	s
+configure_wgs_pam_d	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub configure_wgs_pam_d {$/;"	s
+create	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub create {$/;"	s
+createDesktopFile	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub createDesktopFile {$/;"	s
+createMimePackageFile	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub createMimePackageFile {$/;"	s
+create_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub create_dir {$/;"	s
+db_add_answer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_add_answer {$/;"	s
+db_add_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_add_dir {$/;"	s
+db_add_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_add_file {$/;"	s
+db_append	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_append {$/;"	s
+db_dir_in	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_dir_in {$/;"	s
+db_file_in	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_file_in {$/;"	s
+db_file_ts	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_file_ts {$/;"	s
+db_get_answer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_get_answer {$/;"	s
+db_get_answer_if_exists	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_get_answer_if_exists {$/;"	s
+db_get_files_to_restore	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_get_files_to_restore {$/;"	s
+db_load	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_load {$/;"	s
+db_remove_answer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_remove_answer {$/;"	s
+db_remove_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_remove_dir {$/;"	s
+db_remove_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_remove_file {$/;"	s
+db_save	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_save {$/;"	s
+db_set_userfile	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_set_userfile {$/;"	s
+db_userfile_in	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub db_userfile_in {$/;"	s
+device_list	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub device_list {$/;"	s
+dir_remove_trailing_slashes	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub dir_remove_trailing_slashes {$/;"	s
+direct_command	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub direct_command {$/;"	s
+disable_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub disable_module {$/;"	s
+distribution_info	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub distribution_info {$/;"	s
+does_solaris_package_exist	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub does_solaris_package_exist {$/;"	s
+dot_version_compare	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub dot_version_compare {$/;"	s
+dump_all	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub dump_all() {$/;"	s
+eject_tools_install_cd_if_mounted	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub eject_tools_install_cd_if_mounted {$/;"	s
+error	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub error {$/;"	s
+extract_alias_and_modname	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub extract_alias_and_modname {$/;"	s
+file_changed_db_ts	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub file_changed_db_ts {$/;"	s
+file_check_exist	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub file_check_exist {$/;"	s
+file_name_exist	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub file_name_exist {$/;"	s
+find_first_exist	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub find_first_exist {$/;"	s
+find_free_X_display	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub find_free_X_display {$/;"	s
+fix_X_conf	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub fix_X_conf {$/;"	s
+fix_X_link	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub fix_X_link {$/;"	s
+fix_mouse_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub fix_mouse_file {$/;"	s
+fix_vmlist_permissions	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub fix_vmlist_permissions {$/;"	s
+get	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get() {$/;"	s
+getDesktopConsoleName	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getDesktopConsoleName {$/;"	s
+getDesktopFileName	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getDesktopFileName {$/;"	s
+getFreeBSDBinSuffix	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getFreeBSDBinSuffix {$/;"	s
+getFreeBSDLibSuffix	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getFreeBSDLibSuffix {$/;"	s
+getFreeBSDSbinSuffix	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getFreeBSDSbinSuffix {$/;"	s
+getFreeBSDSuffix	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getFreeBSDSuffix {$/;"	s
+getFreeBSDVersion	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getFreeBSDVersion {$/;"	s
+getIconFileName	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getIconFileName {$/;"	s
+getKernRel	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getKernRel {$/;"	s
+getKernRelInteger	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getKernRelInteger {$/;"	s
+getModDBKey	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getModDBKey {$/;"	s
+getValidGccPath	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getValidGccPath {$/;"	s
+getValidKernelHeadersPath	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getValidKernelHeadersPath {$/;"	s
+getXorgVersionAll	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub getXorgVersionAll {$/;"	s
+get_answer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_answer {$/;"	s
+get_best_resolution	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_best_resolution {$/;"	s
+get_bool	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_bool() {$/;"	s
+get_cc	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_cc {$/;"	s
+get_devices_list	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_devices_list {$/;"	s
+get_full_module_path	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_full_module_path {$/;"	s
+get_gcc_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_gcc_version {$/;"	s
+get_glibc_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_glibc_version {$/;"	s
+get_hal_script_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_hal_script_name {$/;"	s
+get_httpd_status	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_httpd_status() {$/;"	s
+get_module_compatible_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_module_compatible_version {$/;"	s
+get_module_install_dest	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_module_install_dest {$/;"	s
+get_module_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_module_name {$/;"	s
+get_module_status	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_module_status {$/;"	s
+get_persistent_answer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_persistent_answer {$/;"	s
+get_port_for_authd	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_port_for_authd {$/;"	s
+get_proc_tcp_entries	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_proc_tcp_entries {$/;"	s
+get_resolution	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_resolution {$/;"	s
+get_samba_net	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_samba_net {$/;"	s
+get_screen_mode	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_screen_mode {$/;"	s
+get_suitable_modules	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_suitable_modules {$/;"	s
+get_udev_tags	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_udev_tags {$/;"	s
+get_unmarked	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub get_unmarked() {$/;"	s
+identify_linux_variant	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub identify_linux_variant {$/;"	s
+identify_suse_variant	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub identify_suse_variant {$/;"	s
+init_version_manifest	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub init_version_manifest {$/;"	s
+initialize_external_helpers	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub initialize_external_helpers {$/;"	s
+initialize_globals	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub initialize_globals {$/;"	s
+initialize_module_status	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub initialize_module_status {$/;"	s
+installUdevRule	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub installUdevRule {$/;"	s
+install_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_dir {$/;"	s
+install_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_file {$/;"	s
+install_hardlink	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_hardlink {$/;"	s
+install_link	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_link {$/;"	s
+install_permission	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_permission {$/;"	s
+install_solaris_symlink	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_solaris_symlink {$/;"	s
+install_symlink	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_symlink {$/;"	s
+install_vix	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_vix {$/;"	s
+install_x_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_x_module {$/;"	s
+install_x_module_no_checks	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub install_x_module_no_checks {$/;"	s
+int_to_quaddot	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub int_to_quaddot {$/;"	s
+internalMv	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub internalMv {$/;"	s
+internal_basename	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub internal_basename {$/;"	s
+internal_dirname	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub internal_dirname {$/;"	s
+internal_ls	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub internal_ls {$/;"	s
+internal_sed	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub internal_sed {$/;"	s
+internal_which	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub internal_which {$/;"	s
+is64BitElf	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is64BitElf {$/;"	s
+is64BitKernel	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is64BitKernel {$/;"	s
+is64BitUserLand	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is64BitUserLand {$/;"	s
+isAthlonKernel	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub isAthlonKernel {$/;"	s
+isDesktopProduct	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub isDesktopProduct {$/;"	s
+isKernelBlacklisted	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub isKernelBlacklisted {$/;"	s
+isToolsProduct	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub isToolsProduct {$/;"	s
+is_bridged_network	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_bridged_network {$/;"	s
+is_dev_dynamic	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_dev_dynamic {$/;"	s
+is_esx_virt_env	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_esx_virt_env {$/;"	s
+is_hostonly_network	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_hostonly_network {$/;"	s
+is_nat_network	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_nat_network {$/;"	s
+is_root	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_root {$/;"	s
+is_samba_running	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_samba_running {$/;"	s
+is_selinux_enabled	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub is_selinux_enabled {$/;"	s
+kernel_version_integer	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub kernel_version_integer {$/;"	s
+kmod_load_by_path	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub kmod_load_by_path {$/;"	s
+kmod_unload	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub kmod_unload {$/;"	s
+link_runlevel	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub link_runlevel {$/;"	s
+link_services	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub link_services {$/;"	s
+link_services_solaris	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub link_services_solaris {$/;"	s
+linkdest	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub linkdest {$/;"	s
+list	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub list($) {$/;"	s
+load_all_ethif_info	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub load_all_ethif_info() {$/;"	s
+load_ethif_info	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub load_ethif_info() {$/;"	s
+locate_upstart_jobinfo	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub locate_upstart_jobinfo() {$/;"	s
+main	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub main {$/;"	s
+make_all_net	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_all_net() {$/;"	s
+make_bridged_net	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_bridged_net {$/;"	s
+make_dhcpd_patch	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_dhcpd_patch {$/;"	s
+make_hostonly_net	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_hostonly_net {$/;"	s
+make_modconfig_command	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_modconfig_command {$/;"	s
+make_nat_net	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_nat_net {$/;"	s
+make_nat_patch	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_nat_patch {$/;"	s
+make_tmp_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub make_tmp_dir {$/;"	s
+mark	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub mark($) {$/;"	s
+migrate_network_files	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub migrate_network_files {$/;"	s
+mod_pre_install_check	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub mod_pre_install_check {$/;"	s
+module_error	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub module_error {$/;"	s
+module_post_configure	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub module_post_configure {$/;"	s
+module_ramdisk_check	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub module_ramdisk_check {$/;"	s
+new	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub new() {$/;"	s
+overwrite	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub overwrite($$) {$/;"	s
+parse	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub parse($) {$/;"	s
+parse_line	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub parse_line($) {$/;"	s
+path_compare	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub path_compare {$/;"	s
+populate_vmw_modules_via_aliases_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub populate_vmw_modules_via_aliases_file {$/;"	s
+populate_vmw_modules_via_modinfo	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub populate_vmw_modules_via_modinfo {$/;"	s
+populate_vmware_modules	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub populate_vmware_modules {$/;"	s
+preserve_case	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub preserve_case($) {$/;"	s
+pretty_overwrite	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub pretty_overwrite {$/;"	s
+pretty_print	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub pretty_print($) {$/;"	s
+print_section	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub print_section {$/;"	s
+print_unmarked	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub print_unmarked() {$/;"	s
+print_value	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub print_value {$/;"	s
+print_values	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub print_values {$/;"	s
+pulseDisableTimerBasedAudio	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub pulseDisableTimerBasedAudio {$/;"	s
+pulseNeedsTimerBasedAudioDisabled	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub pulseNeedsTimerBasedAudioDisabled {$/;"	s
+quaddot_to_int	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub quaddot_to_int {$/;"	s
+query	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub query {$/;"	s
+readin	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub readin($) {$/;"	s
+reduce_pciid	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub reduce_pciid {$/;"	s
+reinstall_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub reinstall_module {$/;"	s
+reinstall_module_vmblock	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub reinstall_module_vmblock {$/;"	s
+remove	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub remove($) {$/;"	s
+removeDuplicateEntries	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub removeDuplicateEntries {$/;"	s
+removeTextInKVEntryInFile	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub removeTextInKVEntryInFile {$/;"	s
+remove_tmp_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub remove_tmp_dir {$/;"	s
+remove_whitespaces	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub remove_whitespaces {$/;"	s
+restart_hal	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub restart_hal {$/;"	s
+restorecon	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub restorecon {$/;"	s
+safe_chmod	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub safe_chmod {$/;"	s
+safe_mkdir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub safe_mkdir {$/;"	s
+safely_matches	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub safely_matches {$/;"	s
+searchDirsForMatchingFile	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub searchDirsForMatchingFile {$/;"	s
+searchForUdevRule	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub searchForUdevRule {$/;"	s
+search_for_module_in_moddep	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub search_for_module_in_moddep {$/;"	s
+send_rpc	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub send_rpc {$/;"	s
+send_rpc_failed_msgs	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub send_rpc_failed_msgs {$/;"	s
+set	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub set($$) {$/;"	s
+set_file_contents	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub set_file_contents {$/;"	s
+set_manifest_component	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub set_manifest_component {$/;"	s
+set_module_status	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub set_module_status {$/;"	s
+set_uid_X_server	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub set_uid_X_server {$/;"	s
+setup32or64Symlinks	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub setup32or64Symlinks {$/;"	s
+setupSolarisSymlinks	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub setupSolarisSymlinks {$/;"	s
+setupSymlinks	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub setupSymlinks {$/;"	s
+shell_string	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub shell_string {$/;"	s
+show_EULA	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub show_EULA {$/;"	s
+show_PROMOCODE	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub show_PROMOCODE {$/;"	s
+sigint_handler	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub sigint_handler {$/;"	s
+solaris_10_or_greater	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_10_or_greater {$/;"	s
+solaris_10u1	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_10u1 {$/;"	s
+solaris_11_or_greater	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_11_or_greater {$/;"	s
+solaris_driver_configured	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_driver_configured {$/;"	s
+solaris_is_opensolaris	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_is_opensolaris {$/;"	s
+solaris_os_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_os_name {$/;"	s
+solaris_os_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub solaris_os_version {$/;"	s
+split_X_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub split_X_version {$/;"	s
+switch_to_guest	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub switch_to_guest {$/;"	s
+switch_to_host	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub switch_to_host {$/;"	s
+switch_tools_config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub switch_tools_config {$/;"	s
+symlink_icudt44l	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub symlink_icudt44l {$/;"	s
+symlink_if_needed	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub symlink_if_needed {$/;"	s
+system_info	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub system_info {$/;"	s
+timestamp	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub timestamp() {$/;"	s
+try_X_conf	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub try_X_conf {$/;"	s
+try_module	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub try_module {$/;"	s
+unconfigure_autostart_legacy	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub unconfigure_autostart_legacy {$/;"	s
+unconfigure_samba	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub unconfigure_samba {$/;"	s
+uninstall_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub uninstall_dir {$/;"	s
+uninstall_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub uninstall_file {$/;"	s
+uninstall_prefix	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub uninstall_prefix {$/;"	s
+unmake_samba_net	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub unmake_samba_net {$/;"	s
+unmark_all	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub unmark_all() {$/;"	s
+update	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub update($) {$/;"	s
+verify_bsd_libcompat	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub verify_bsd_libcompat {$/;"	s
+verify_bsd_xpkgs	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub verify_bsd_xpkgs {$/;"	s
+vmware_binary	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_binary {$/;"	s
+vmware_check_vm_app_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_check_vm_app_name {$/;"	s
+vmware_longname	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_longname {$/;"	s
+vmware_product	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_product {$/;"	s
+vmware_product_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_product_name {$/;"	s
+vmware_service_basename	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_service_basename {$/;"	s
+vmware_service_issue_command	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_service_issue_command {$/;"	s
+vmware_service_issue_command1	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_service_issue_command1 {$/;"	s
+vmware_service_path	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_service_path {$/;"	s
+vmware_services_table	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_services_table()$/;"	s
+vmware_tools_cmd_app_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_tools_cmd_app_name {$/;"	s
+vmware_version	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_version {$/;"	s
+vmware_vmhgfs_can_use_fuse	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_vmhgfs_can_use_fuse {$/;"	s
+vmware_vmhgfs_use_fuse_app_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_vmhgfs_use_fuse_app_name {$/;"	s
+vmware_vmx_app_name	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub vmware_vmx_app_name {$/;"	s
+wrap	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub wrap {$/;"	s
+wrap_one_char	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub wrap_one_char {$/;"	s
+write_dhcpd_config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub write_dhcpd_config {$/;"	s
+write_manifest_file	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub write_manifest_file {$/;"	s
+write_module_config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub write_module_config {$/;"	s
+write_nat_config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub write_nat_config {$/;"	s
+write_new_tools_config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub write_new_tools_config() {$/;"	s
+write_vmware_config	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub write_vmware_config {$/;"	s
+writeout	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub writeout($) {$/;"	s
+xconfig_file_abs_path	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xconfig_file_abs_path {$/;"	s
+xfree_3	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xfree_3 {$/;"	s
+xfree_4	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xfree_4 {$/;"	s
+xorg	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xorg {$/;"	s
+xorg_find_modules_dir	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xorg_find_modules_dir {$/;"	s
+xserver3	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xserver3 {$/;"	s
+xserver4	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xserver4 {$/;"	s
+xserver_bin	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xserver_bin {$/;"	s
+xserver_xorg	vmware-tools-distrib/bin/vmware-config-tools.pl	/^sub xserver_xorg {$/;"	s
+DoesBinaryExist_Prompt	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub DoesBinaryExist_Prompt {$/;"	s
+DoesOSMatchProduct	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub DoesOSMatchProduct {$/;"	s
+addTextToKVEntryInFile	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub addTextToKVEntryInFile {$/;"	s
+alt_db_get_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub alt_db_get_answer  {$/;"	s
+append_output	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub append_output {$/;"	s
+backup_file	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub backup_file {$/;"	s
+block_append	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub block_append {$/;"	s
+block_append_with_db_answer_entry	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub block_append_with_db_answer_entry {$/;"	s
+block_insert	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub block_insert {$/;"	s
+block_match	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub block_match {$/;"	s
+block_remove	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub block_remove {$/;"	s
+block_restore	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub block_restore {$/;"	s
+build_perl_api	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub build_perl_api {$/;"	s
+checkDPKGForPackages	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub checkDPKGForPackages {$/;"	s
+checkRPMForPackages	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub checkRPMForPackages {$/;"	s
+check_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer {$/;"	s
+check_answer_authdport	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_authdport {$/;"	s
+check_answer_binpath	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_binpath {$/;"	s
+check_answer_dirpath	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_dirpath {$/;"	s
+check_answer_existdirpath	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_existdirpath {$/;"	s
+check_answer_initdirpath	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_initdirpath {$/;"	s
+check_answer_initscriptsdirpath	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_initscriptsdirpath {$/;"	s
+check_answer_username	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_username {$/;"	s
+check_answer_yesno	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_answer_yesno {$/;"	s
+check_disk_space	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_disk_space {$/;"	s
+check_is_running	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_is_running {$/;"	s
+check_mountpoint_for_tools	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_mountpoint_for_tools {$/;"	s
+check_ovt_compatibility	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub check_ovt_compatibility {$/;"	s
+compare_version_strings	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub compare_version_strings {$/;"	s
+compute_subnet	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub compute_subnet {$/;"	s
+configure_gtk2	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub configure_gtk2 {$/;"	s
+configure_vnetlib	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub configure_vnetlib() {$/;"	s
+create_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub create_dir {$/;"	s
+create_initial_database	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub create_initial_database {$/;"	s
+db_add_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_add_answer {$/;"	s
+db_add_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_add_dir {$/;"	s
+db_add_file	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_add_file {$/;"	s
+db_append	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_append {$/;"	s
+db_clear	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_clear {$/;"	s
+db_dir_in	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_dir_in {$/;"	s
+db_file_in	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_file_in {$/;"	s
+db_file_ts	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_file_ts {$/;"	s
+db_get_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_get_answer {$/;"	s
+db_get_answer_if_exists	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_get_answer_if_exists {$/;"	s
+db_get_files_to_restore	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_get_files_to_restore {$/;"	s
+db_is_file_changed	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_is_file_changed {$/;"	s
+db_load	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_load {$/;"	s
+db_remove_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_remove_answer {$/;"	s
+db_remove_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_remove_dir {$/;"	s
+db_remove_file	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_remove_file {$/;"	s
+db_save	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub db_save {$/;"	s
+deconfigure_dracut	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub deconfigure_dracut {$/;"	s
+deconfigure_initmodfile	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub deconfigure_initmodfile {$/;"	s
+deconfigure_initrd_suse	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub deconfigure_initrd_suse {$/;"	s
+deconfigure_updatedb	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub deconfigure_updatedb {$/;"	s
+deconfigure_vnetlib	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub deconfigure_vnetlib() {$/;"	s
+depmod_all_kernels	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub depmod_all_kernels {$/;"	s
+dir_remove_trailing_slashes	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub dir_remove_trailing_slashes {$/;"	s
+direct_command	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub direct_command {$/;"	s
+dot_version_compare	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub dot_version_compare {$/;"	s
+eject_tools_install_cd_if_mounted	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub eject_tools_install_cd_if_mounted {$/;"	s
+error	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub error {$/;"	s
+file_check_exist	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub file_check_exist {$/;"	s
+file_name_exist	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub file_name_exist {$/;"	s
+filter_out_bkp_changed_files	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub filter_out_bkp_changed_files {$/;"	s
+finalize_vix_install	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub finalize_vix_install {$/;"	s
+find_vix_tar	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub find_vix_tar {$/;"	s
+generate_initscript_patch	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub generate_initscript_patch {$/;"	s
+getFreeBSDBinSuffix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getFreeBSDBinSuffix {$/;"	s
+getFreeBSDLibSuffix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getFreeBSDLibSuffix {$/;"	s
+getFreeBSDSbinSuffix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getFreeBSDSbinSuffix {$/;"	s
+getFreeBSDSuffix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getFreeBSDSuffix {$/;"	s
+getFreeBSDVersion	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getFreeBSDVersion {$/;"	s
+getKernRel	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getKernRel {$/;"	s
+getKernRelInteger	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub getKernRelInteger {$/;"	s
+get_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_answer {$/;"	s
+get_cc	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_cc {$/;"	s
+get_hal_script_name	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_hal_script_name {$/;"	s
+get_initial_database	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_initial_database {$/;"	s
+get_initscriptsdir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_initscriptsdir {$/;"	s
+get_installed_kind	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_installed_kind() {$/;"	s
+get_installed_product_bin	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_installed_product_bin {$/;"	s
+get_installed_version	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_installed_version() {$/;"	s
+get_persistent_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub get_persistent_answer {$/;"	s
+identify_linux_variant	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub identify_linux_variant {$/;"	s
+init_product_arch_hash	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub init_product_arch_hash {$/;"	s
+initialize_external_helpers	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub initialize_external_helpers {$/;"	s
+initialize_globals	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub initialize_globals {$/;"	s
+install_content	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content {$/;"	s
+install_content_caf	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_caf {$/;"	s
+install_content_guestproxy	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_guestproxy {$/;"	s
+install_content_nvdk	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_nvdk {$/;"	s
+install_content_player	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_player {$/;"	s
+install_content_tools	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_tools {$/;"	s
+install_content_tools_etc_openvmcompat	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_tools_etc_openvmcompat {$/;"	s
+install_content_vgauth	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_vgauth {$/;"	s
+install_content_vix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_vix {$/;"	s
+install_content_vix_disklib	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_content_vix_disklib {$/;"	s
+install_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_dir {$/;"	s
+install_file	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_file {$/;"	s
+install_module	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_module {$/;"	s
+install_or_upgrade	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_or_upgrade {$/;"	s
+install_perl_api	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_perl_api {$/;"	s
+install_permission	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_permission {$/;"	s
+install_symlink	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_symlink {$/;"	s
+install_usage	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub install_usage {$/;"	s
+installed_product_mismatch	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub installed_product_mismatch {$/;"	s
+int_to_quaddot	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub int_to_quaddot {$/;"	s
+internalMv	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub internalMv {$/;"	s
+internal_basename	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub internal_basename {$/;"	s
+internal_dirname	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub internal_dirname {$/;"	s
+internal_ls	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub internal_ls {$/;"	s
+internal_sed	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub internal_sed {$/;"	s
+internal_which	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub internal_which {$/;"	s
+is64BitUserLand	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub is64BitUserLand {$/;"	s
+isDesktopProduct	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub isDesktopProduct {$/;"	s
+isToolsProduct	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub isToolsProduct {$/;"	s
+is_root	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub is_root {$/;"	s
+is_selinux_enabled	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub is_selinux_enabled {$/;"	s
+kernel_version_integer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub kernel_version_integer {$/;"	s
+kmod_unload	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub kmod_unload {$/;"	s
+load_config	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub load_config() {$/;"	s
+locate_upstart_jobinfo	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub locate_upstart_jobinfo() {$/;"	s
+main	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub main {$/;"	s
+make_tmp_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub make_tmp_dir {$/;"	s
+perl_config_fail	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub perl_config_fail {$/;"	s
+prelink_fix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub prelink_fix {$/;"	s
+prelink_restore	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub prelink_restore {$/;"	s
+preuninstall_installed_tools	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub preuninstall_installed_tools {$/;"	s
+product_os_match	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub product_os_match {$/;"	s
+prompt_user_to_remove_installed_product	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub prompt_user_to_remove_installed_product {$/;"	s
+quaddot_to_int	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub quaddot_to_int {$/;"	s
+query	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub query {$/;"	s
+removeDEBPackages	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub removeDEBPackages {$/;"	s
+removeDuplicateEntries	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub removeDuplicateEntries {$/;"	s
+removeRPMPackages	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub removeRPMPackages {$/;"	s
+removeTextInKVEntryInFile	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub removeTextInKVEntryInFile {$/;"	s
+remove_tmp_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub remove_tmp_dir {$/;"	s
+remove_whitespaces	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub remove_whitespaces {$/;"	s
+restart_hal	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub restart_hal {$/;"	s
+restore_appended_files	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub restore_appended_files {$/;"	s
+restore_backedup_files	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub restore_backedup_files {$/;"	s
+restore_kernel_initrd	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub restore_kernel_initrd {$/;"	s
+restorecon	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub restorecon {$/;"	s
+safe_chmod	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub safe_chmod {$/;"	s
+safe_mkdir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub safe_mkdir {$/;"	s
+safely_matches	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub safely_matches {$/;"	s
+send_rpc	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub send_rpc {$/;"	s
+send_rpc_failed_msgs	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub send_rpc_failed_msgs {$/;"	s
+shell_string	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub shell_string {$/;"	s
+show_EULA	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub show_EULA {$/;"	s
+sigint_handler	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub sigint_handler {$/;"	s
+solaris_os_version	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub solaris_os_version {$/;"	s
+spacechk_answer	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub spacechk_answer {$/;"	s
+unconfigure_autostart_legacy	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub unconfigure_autostart_legacy {$/;"	s
+uninstall	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall {$/;"	s
+uninstall_content_caf	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_content_caf {$/;"	s
+uninstall_content_caf_process_files	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_content_caf_process_files {$/;"	s
+uninstall_content_guestproxy	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_content_guestproxy {$/;"	s
+uninstall_content_legacy_tools	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_content_legacy_tools {$/;"	s
+uninstall_dir	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_dir {$/;"	s
+uninstall_file	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_file {$/;"	s
+uninstall_module	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_module {$/;"	s
+uninstall_prefix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_prefix {$/;"	s
+uninstall_vix	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub uninstall_vix {$/;"	s
+unset_kmod_db_entries	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub unset_kmod_db_entries {$/;"	s
+vmware_longname	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_longname {$/;"	s
+vmware_product	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_product {$/;"	s
+vmware_product_architecture	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_product_architecture {$/;"	s
+vmware_product_name	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_product_name {$/;"	s
+vmware_service_basename	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_service_basename {$/;"	s
+vmware_service_issue_command	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_service_issue_command {$/;"	s
+vmware_service_issue_command1	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_service_issue_command1 {$/;"	s
+vmware_service_path	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_service_path {$/;"	s
+vmware_services_table	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_services_table()$/;"	s
+vmware_version	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub vmware_version {$/;"	s
+wrap	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub wrap {$/;"	s
+wrap_one_char	vmware-tools-distrib/bin/vmware-uninstall-tools.pl	/^sub wrap_one_char {$/;"	s
+condrestart	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-communication-service	/^condrestart()$/;"	f
+failure	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-communication-service	/^        failure() {$/;"	f
+restart	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-communication-service	/^restart()$/;"	f
+start	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-communication-service	/^start()$/;"	f
+stop	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-communication-service	/^stop()$/;"	f
+success	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-communication-service	/^        success() {$/;"	f
+condrestart	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-management-agent	/^condrestart()$/;"	f
+failure	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-management-agent	/^        failure() {$/;"	f
+restart	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-management-agent	/^restart()$/;"	f
+start	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-management-agent	/^start()$/;"	f
+stop	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-management-agent	/^stop()$/;"	f
+success	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-c-management-agent	/^        success() {$/;"	f
+checkCerts	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function checkCerts() {$/;"	f
+checkCertsVerbose	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function checkCertsVerbose() {$/;"	f
+checkFsPerms	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function checkFsPerms() {$/;"	f
+checkTunnel	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function checkTunnel() {$/;"	f
+clearCaches	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function clearCaches() {$/;"	f
+enableCaf	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function enableCaf() {$/;"	f
+prtHeader	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function prtHeader() {$/;"	f
+prtHelp	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function prtHelp() {$/;"	f
+setCafRootDir	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function setCafRootDir() {$/;"	f
+validateNotEmpty	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function validateNotEmpty() {$/;"	f
+validateXml	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-dbg.sh	/^function validateXml() {$/;"	f
+condrestart	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-vgauth	/^condrestart()$/;"	f
+failure	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-vgauth	/^        failure() {$/;"	f
+restart	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-vgauth	/^restart()$/;"	f
+start	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-vgauth	/^start()$/;"	f
+stop	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-vgauth	/^stop()$/;"	f
+success	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/caf-vgauth	/^        success() {$/;"	f
+HELP	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/install.sh	/^function HELP {$/;"	f
+setupCafConfig	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/install.sh	/^setupCafConfig() {$/;"	f
+safe_rm	vmware-tools-distrib/caf/etc/vmware-caf/pme/install/preuninstall.sh	/^safe_rm() {$/;"	f
+enableCoreFiles	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^enableCoreFiles() {$/;"	f
+getBestLocale	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^getBestLocale() {$/;"	f
+getCurrentDir	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^getCurrentDir() {$/;"	f
+setUtf8Locale	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^setUtf8Locale() {$/;"	f
+startCafProcess	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^startCafProcess() {$/;"	f
+startVgAuthProcess	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^startVgAuthProcess() {$/;"	f
+stopProcess	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^stopProcess() {$/;"	f
+verifyProcessNotRunning	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-common	/^verifyProcessNotRunning() {$/;"	f
+disableConsoleLogging	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function disableConsoleLogging() {$/;"	f
+enableConsoleLogging	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function enableConsoleLogging() {$/;"	f
+killListener	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function killListener() {$/;"	f
+killMa	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function killMa() {$/;"	f
+prtHeader	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function prtHeader() {$/;"	f
+prtHelp	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function prtHelp() {$/;"	f
+setCafRootDir	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function setCafRootDir() {$/;"	f
+startProcess	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function startProcess() {$/;"	f
+stopListener	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function stopListener() {$/;"	f
+stopMa	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/caf-processes.sh	/^function stopMa() {$/;"	f
+helpMessage	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/setUpVgAuth	/^helpMessage() {$/;"	f
+helpMessage	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/start-VGAuthService	/^helpMessage() {$/;"	f
+helpMessage	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/start-listener	/^helpMessage() {$/;"	f
+helpMessage	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/start-ma	/^helpMessage() {$/;"	f
+helpMessage	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/tearDownVgAuth	/^helpMessage() {$/;"	f
+helpMessage	vmware-tools-distrib/caf/etc/vmware-caf/pme/scripts/vgAuth	/^helpMessage() {$/;"	f
+db_add_answer	vmware-tools-distrib/etc/installer.sh	/^db_add_answer() {$/;"	f
+db_add_dir	vmware-tools-distrib/etc/installer.sh	/^db_add_dir() {$/;"	f
+db_add_file	vmware-tools-distrib/etc/installer.sh	/^db_add_file() {$/;"	f
+db_answer_add	vmware-tools-distrib/etc/installer.sh	/^db_answer_add() {$/;"	f
+db_answer_remove	vmware-tools-distrib/etc/installer.sh	/^db_answer_remove() {$/;"	f
+db_iterate	vmware-tools-distrib/etc/installer.sh	/^db_iterate() {$/;"	f
+db_load	vmware-tools-distrib/etc/installer.sh	/^db_load() {$/;"	f
+db_load_from_stdin	vmware-tools-distrib/etc/installer.sh	/^db_load_from_stdin() {$/;"	f
+db_remove_answer	vmware-tools-distrib/etc/installer.sh	/^db_remove_answer() {$/;"	f
+db_remove_file	vmware-tools-distrib/etc/installer.sh	/^db_remove_file() {$/;"	f
+initialize_globals	vmware-tools-distrib/etc/installer.sh	/^initialize_globals() {$/;"	f
+installer_convertdb	vmware-tools-distrib/etc/installer.sh	/^installer_convertdb() {$/;"	f
+installer_kind	vmware-tools-distrib/etc/installer.sh	/^installer_kind() {$/;"	f
+installer_uninstall	vmware-tools-distrib/etc/installer.sh	/^installer_uninstall() {$/;"	f
+installer_version	vmware-tools-distrib/etc/installer.sh	/^installer_version() {$/;"	f
+isSELinuxEnabled	vmware-tools-distrib/etc/installer.sh	/^isSELinuxEnabled() {$/;"	f
+is_ESX_running	vmware-tools-distrib/etc/installer.sh	/^is_ESX_running() {$/;"	f
+is_dsp	vmware-tools-distrib/etc/installer.sh	/^is_dsp()$/;"	f
+is_vmblock_needed	vmware-tools-distrib/etc/installer.sh	/^is_vmblock_needed() {$/;"	f
+is_vmware_user_running	vmware-tools-distrib/etc/installer.sh	/^is_vmware_user_running() {$/;"	f
+launch_binary	vmware-tools-distrib/etc/installer.sh	/^launch_binary() {$/;"	f
+load_settings	vmware-tools-distrib/etc/installer.sh	/^load_settings() {$/;"	f
+make_tmp_dir	vmware-tools-distrib/etc/installer.sh	/^make_tmp_dir() {$/;"	f
+vmware_bg_exec	vmware-tools-distrib/etc/installer.sh	/^vmware_bg_exec() {$/;"	f
+vmware_check_pidfile	vmware-tools-distrib/etc/installer.sh	/^vmware_check_pidfile() {$/;"	f
+vmware_delay_for_node	vmware-tools-distrib/etc/installer.sh	/^vmware_delay_for_node() {$/;"	f
+vmware_exec	vmware-tools-distrib/etc/installer.sh	/^vmware_exec() {$/;"	f
+vmware_exec_selinux	vmware-tools-distrib/etc/installer.sh	/^vmware_exec_selinux() {$/;"	f
+vmware_exec_warn	vmware-tools-distrib/etc/installer.sh	/^vmware_exec_warn() {$/;"	f
+vmware_failed	vmware-tools-distrib/etc/installer.sh	/^vmware_failed() {$/;"	f
+vmware_is_process_alive	vmware-tools-distrib/etc/installer.sh	/^vmware_is_process_alive() {$/;"	f
+vmware_is_upstream	vmware-tools-distrib/etc/installer.sh	/^vmware_is_upstream() {$/;"	f
+vmware_product	vmware-tools-distrib/etc/installer.sh	/^vmware_product() {$/;"	f
+vmware_product_name	vmware-tools-distrib/etc/installer.sh	/^vmware_product_name() {$/;"	f
+vmware_real_modname	vmware-tools-distrib/etc/installer.sh	/^vmware_real_modname() {$/;"	f
+vmware_restart_vmware_user	vmware-tools-distrib/etc/installer.sh	/^vmware_restart_vmware_user() {$/;"	f
+vmware_rm_stale_node	vmware-tools-distrib/etc/installer.sh	/^vmware_rm_stale_node() {$/;"	f
+vmware_signal_vmware_user	vmware-tools-distrib/etc/installer.sh	/^vmware_signal_vmware_user() {$/;"	f
+vmware_start_vmblock	vmware-tools-distrib/etc/installer.sh	/^vmware_start_vmblock() {$/;"	f
+vmware_start_vsock	vmware-tools-distrib/etc/installer.sh	/^vmware_start_vsock() {$/;"	f
+vmware_stop_pidfile	vmware-tools-distrib/etc/installer.sh	/^vmware_stop_pidfile() {$/;"	f
+vmware_stop_vmblock	vmware-tools-distrib/etc/installer.sh	/^vmware_stop_vmblock() {$/;"	f
+vmware_stop_vsock	vmware-tools-distrib/etc/installer.sh	/^vmware_stop_vsock() {$/;"	f
+vmware_success	vmware-tools-distrib/etc/installer.sh	/^vmware_success() {$/;"	f
+vmware_synchrone_kill	vmware-tools-distrib/etc/installer.sh	/^vmware_synchrone_kill() {$/;"	f
+vmware_user_request_release_resources	vmware-tools-distrib/etc/installer.sh	/^vmware_user_request_release_resources() {$/;"	f
+vmware_warn_failure	vmware-tools-distrib/etc/installer.sh	/^vmware_warn_failure() {$/;"	f
+wrap	vmware-tools-distrib/etc/installer.sh	/^wrap () {$/;"	f
+write	vmware-tools-distrib/etc/installer.sh	/^      write() {$/;"	f
+RunScripts	vmware-tools-distrib/etc/poweroff-vm-default	/^RunScripts() {$/;"	f
+main	vmware-tools-distrib/etc/poweroff-vm-default	/^main() {$/;"	f
+RunScripts	vmware-tools-distrib/etc/poweron-vm-default	/^RunScripts() {$/;"	f
+main	vmware-tools-distrib/etc/poweron-vm-default	/^main() {$/;"	f
+RunScripts	vmware-tools-distrib/etc/resume-vm-default	/^RunScripts() {$/;"	f
+main	vmware-tools-distrib/etc/resume-vm-default	/^main() {$/;"	f
+TranquilizeNetworkManager	vmware-tools-distrib/etc/scripts/vmware/network	/^TranquilizeNetworkManager()$/;"	f
+WakeNetworkManager	vmware-tools-distrib/etc/scripts/vmware/network	/^WakeNetworkManager()$/;"	f
+config_network_intfs	vmware-tools-distrib/etc/scripts/vmware/network	/^config_network_intfs()$/;"	f
+del_intf_ip	vmware-tools-distrib/etc/scripts/vmware/network	/^del_intf_ip()$/;"	f
+exec_intf_ops	vmware-tools-distrib/etc/scripts/vmware/network	/^exec_intf_ops()$/;"	f
+exec_networking_script	vmware-tools-distrib/etc/scripts/vmware/network	/^exec_networking_script()$/;"	f
+exec_systemctl_service	vmware-tools-distrib/etc/scripts/vmware/network	/^exec_systemctl_service()$/;"	f
+find_networking_script	vmware-tools-distrib/etc/scripts/vmware/network	/^find_networking_script() {$/;"	f
+intf_ops	vmware-tools-distrib/etc/scripts/vmware/network	/^intf_ops()$/;"	f
+ip_intf_ops	vmware-tools-distrib/etc/scripts/vmware/network	/^ip_intf_ops()$/;"	f
+main	vmware-tools-distrib/etc/scripts/vmware/network	/^main() {$/;"	f
+rescue_NIC	vmware-tools-distrib/etc/scripts/vmware/network	/^rescue_NIC()$/;"	f
+run_network_script	vmware-tools-distrib/etc/scripts/vmware/network	/^run_network_script()$/;"	f
+sanity_check	vmware-tools-distrib/etc/scripts/vmware/network	/^sanity_check()$/;"	f
+save_active_NIC_list	vmware-tools-distrib/etc/scripts/vmware/network	/^save_active_NIC_list()$/;"	f
+RunScripts	vmware-tools-distrib/etc/suspend-vm-default	/^RunScripts() {$/;"	f
+main	vmware-tools-distrib/etc/suspend-vm-default	/^main() {$/;"	f
+db_add_answer	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_add_answer() {$/;"	f
+db_add_dir	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_add_dir() {$/;"	f
+db_add_file	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_add_file() {$/;"	f
+db_answer_add	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_answer_add() {$/;"	f
+db_answer_remove	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_answer_remove() {$/;"	f
+db_iterate	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_iterate() {$/;"	f
+db_load	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_load() {$/;"	f
+db_load_from_stdin	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_load_from_stdin() {$/;"	f
+db_remove_answer	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_remove_answer() {$/;"	f
+db_remove_file	vmware-tools-distrib/etc/xsession-xdm.sh	/^db_remove_file() {$/;"	f
+exec_xsession	vmware-tools-distrib/etc/xsession-xdm.sh	/^exec_xsession()$/;"	f
+failsafe	vmware-tools-distrib/etc/xsession-xdm.sh	/^failsafe()$/;"	f
+main	vmware-tools-distrib/etc/xsession-xdm.sh	/^main()$/;"	f
+open_db	vmware-tools-distrib/etc/xsession-xdm.sh	/^open_db()$/;"	f
+run_vmware_user	vmware-tools-distrib/etc/xsession-xdm.sh	/^run_vmware_user()$/;"	f
+db_add_answer	vmware-tools-distrib/installer/services.sh	/^db_add_answer() {$/;"	f
+db_add_dir	vmware-tools-distrib/installer/services.sh	/^db_add_dir() {$/;"	f
+db_add_file	vmware-tools-distrib/installer/services.sh	/^db_add_file() {$/;"	f
+db_answer_add	vmware-tools-distrib/installer/services.sh	/^db_answer_add() {$/;"	f
+db_answer_remove	vmware-tools-distrib/installer/services.sh	/^db_answer_remove() {$/;"	f
+db_iterate	vmware-tools-distrib/installer/services.sh	/^db_iterate() {$/;"	f
+db_load	vmware-tools-distrib/installer/services.sh	/^db_load() {$/;"	f
+db_load_from_stdin	vmware-tools-distrib/installer/services.sh	/^db_load_from_stdin() {$/;"	f
+db_remove_answer	vmware-tools-distrib/installer/services.sh	/^db_remove_answer() {$/;"	f
+db_remove_file	vmware-tools-distrib/installer/services.sh	/^db_remove_file() {$/;"	f
+get_version_integer	vmware-tools-distrib/installer/services.sh	/^get_version_integer() {$/;"	f
+ipv4_broadcast	vmware-tools-distrib/installer/services.sh	/^ipv4_broadcast() {$/;"	f
+ipv4_subnet	vmware-tools-distrib/installer/services.sh	/^ipv4_subnet() {$/;"	f
+isLoaded	vmware-tools-distrib/installer/services.sh	/^isLoaded() {$/;"	f
+isSELinuxEnabled	vmware-tools-distrib/installer/services.sh	/^isSELinuxEnabled() {$/;"	f
+is_ESX_running	vmware-tools-distrib/installer/services.sh	/^is_ESX_running() {$/;"	f
+is_acpi_hotplug_needed	vmware-tools-distrib/installer/services.sh	/^is_acpi_hotplug_needed() {$/;"	f
+is_dsp	vmware-tools-distrib/installer/services.sh	/^is_dsp()$/;"	f
+is_pvscsi_needed	vmware-tools-distrib/installer/services.sh	/^is_pvscsi_needed() {$/;"	f
+is_vmblock_needed	vmware-tools-distrib/installer/services.sh	/^is_vmblock_needed() {$/;"	f
+is_vmci_needed	vmware-tools-distrib/installer/services.sh	/^is_vmci_needed() {$/;"	f
+is_vmhgfs_mounted	vmware-tools-distrib/installer/services.sh	/^is_vmhgfs_mounted() {$/;"	f
+is_vmhgfs_needed	vmware-tools-distrib/installer/services.sh	/^is_vmhgfs_needed() {$/;"	f
+is_vmmemctl_needed	vmware-tools-distrib/installer/services.sh	/^is_vmmemctl_needed() {$/;"	f
+is_vmsync_needed	vmware-tools-distrib/installer/services.sh	/^is_vmsync_needed() {$/;"	f
+is_vmtoolsd_needed	vmware-tools-distrib/installer/services.sh	/^is_vmtoolsd_needed() {$/;"	f
+is_vmware_user_running	vmware-tools-distrib/installer/services.sh	/^is_vmware_user_running() {$/;"	f
+is_vmxnet3_needed	vmware-tools-distrib/installer/services.sh	/^is_vmxnet3_needed() {$/;"	f
+is_vmxnet_needed	vmware-tools-distrib/installer/services.sh	/^is_vmxnet_needed() {$/;"	f
+is_vsock_needed	vmware-tools-distrib/installer/services.sh	/^is_vsock_needed() {$/;"	f
+kernAsKey	vmware-tools-distrib/installer/services.sh	/^kernAsKey() {$/;"	f
+kernel_version_integer	vmware-tools-distrib/installer/services.sh	/^kernel_version_integer() {$/;"	f
+launch_binary	vmware-tools-distrib/installer/services.sh	/^launch_binary() {$/;"	f
+load_settings	vmware-tools-distrib/installer/services.sh	/^load_settings() {$/;"	f
+main	vmware-tools-distrib/installer/services.sh	/^main()$/;"	f
+make_tmp_dir	vmware-tools-distrib/installer/services.sh	/^make_tmp_dir() {$/;"	f
+upperCase	vmware-tools-distrib/installer/services.sh	/^upperCase() {$/;"	f
+vmware_auto_kmods	vmware-tools-distrib/installer/services.sh	/^vmware_auto_kmods() {$/;"	f
+vmware_auto_kmods_enabled	vmware-tools-distrib/installer/services.sh	/^vmware_auto_kmods_enabled() {$/;"	f
+vmware_bg_exec	vmware-tools-distrib/installer/services.sh	/^vmware_bg_exec() {$/;"	f
+vmware_caf_enabled	vmware-tools-distrib/installer/services.sh	/^vmware_caf_enabled() {$/;"	f
+vmware_check_pidfile	vmware-tools-distrib/installer/services.sh	/^vmware_check_pidfile() {$/;"	f
+vmware_daemon_status	vmware-tools-distrib/installer/services.sh	/^vmware_daemon_status() {$/;"	f
+vmware_delay_for_node	vmware-tools-distrib/installer/services.sh	/^vmware_delay_for_node() {$/;"	f
+vmware_exec	vmware-tools-distrib/installer/services.sh	/^vmware_exec() {$/;"	f
+vmware_exec_selinux	vmware-tools-distrib/installer/services.sh	/^vmware_exec_selinux() {$/;"	f
+vmware_exec_warn	vmware-tools-distrib/installer/services.sh	/^vmware_exec_warn() {$/;"	f
+vmware_failed	vmware-tools-distrib/installer/services.sh	/^vmware_failed() {$/;"	f
+vmware_getModName	vmware-tools-distrib/installer/services.sh	/^vmware_getModName() {$/;"	f
+vmware_getModPath	vmware-tools-distrib/installer/services.sh	/^vmware_getModPath() {$/;"	f
+vmware_hwVersion	vmware-tools-distrib/installer/services.sh	/^vmware_hwVersion() {$/;"	f
+vmware_inVM	vmware-tools-distrib/installer/services.sh	/^vmware_inVM() {$/;"	f
+vmware_insmod	vmware-tools-distrib/installer/services.sh	/^vmware_insmod() {$/;"	f
+vmware_is_process_alive	vmware-tools-distrib/installer/services.sh	/^vmware_is_process_alive() {$/;"	f
+vmware_is_upstream	vmware-tools-distrib/installer/services.sh	/^vmware_is_upstream() {$/;"	f
+vmware_load_module	vmware-tools-distrib/installer/services.sh	/^vmware_load_module() {$/;"	f
+vmware_mount_vmhgfs	vmware-tools-distrib/installer/services.sh	/^vmware_mount_vmhgfs() {$/;"	f
+vmware_product	vmware-tools-distrib/installer/services.sh	/^vmware_product() {$/;"	f
+vmware_product_name	vmware-tools-distrib/installer/services.sh	/^vmware_product_name() {$/;"	f
+vmware_real_modname	vmware-tools-distrib/installer/services.sh	/^vmware_real_modname() {$/;"	f
+vmware_restart_vmware_user	vmware-tools-distrib/installer/services.sh	/^vmware_restart_vmware_user() {$/;"	f
+vmware_rm_stale_node	vmware-tools-distrib/installer/services.sh	/^vmware_rm_stale_node() {$/;"	f
+vmware_signal_vmware_user	vmware-tools-distrib/installer/services.sh	/^vmware_signal_vmware_user() {$/;"	f
+vmware_start_acpi_hotplug	vmware-tools-distrib/installer/services.sh	/^vmware_start_acpi_hotplug() {$/;"	f
+vmware_start_caf	vmware-tools-distrib/installer/services.sh	/^vmware_start_caf()$/;"	f
+vmware_start_daemon	vmware-tools-distrib/installer/services.sh	/^vmware_start_daemon() {$/;"	f
+vmware_start_pvscsi	vmware-tools-distrib/installer/services.sh	/^vmware_start_pvscsi() {$/;"	f
+vmware_start_vgauth	vmware-tools-distrib/installer/services.sh	/^vmware_start_vgauth()$/;"	f
+vmware_start_vmblock	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmblock() {$/;"	f
+vmware_start_vmblock_fuse	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmblock_fuse() {$/;"	f
+vmware_start_vmci	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmci() {$/;"	f
+vmware_start_vmhgfs	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmhgfs() {$/;"	f
+vmware_start_vmhgfs_fuse	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmhgfs_fuse() {$/;"	f
+vmware_start_vmmemctl	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmmemctl() {$/;"	f
+vmware_start_vmsync	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmsync() {$/;"	f
+vmware_start_vmxnet	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmxnet() {$/;"	f
+vmware_start_vmxnet3	vmware-tools-distrib/installer/services.sh	/^vmware_start_vmxnet3() {$/;"	f
+vmware_start_vsock	vmware-tools-distrib/installer/services.sh	/^vmware_start_vsock() {$/;"	f
+vmware_stop_acpi_hotplug	vmware-tools-distrib/installer/services.sh	/^vmware_stop_acpi_hotplug() {$/;"	f
+vmware_stop_caf	vmware-tools-distrib/installer/services.sh	/^vmware_stop_caf()$/;"	f
+vmware_stop_daemon	vmware-tools-distrib/installer/services.sh	/^vmware_stop_daemon() {$/;"	f
+vmware_stop_pidfile	vmware-tools-distrib/installer/services.sh	/^vmware_stop_pidfile() {$/;"	f
+vmware_stop_pvscsi	vmware-tools-distrib/installer/services.sh	/^vmware_stop_pvscsi() {$/;"	f
+vmware_stop_vgauth	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vgauth() {$/;"	f
+vmware_stop_vmblock	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vmblock() {$/;"	f
+vmware_stop_vmci	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vmci() {$/;"	f
+vmware_stop_vmhgfs	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vmhgfs() {$/;"	f
+vmware_stop_vmmemctl	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vmmemctl() {$/;"	f
+vmware_stop_vmsync	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vmsync() {$/;"	f
+vmware_stop_vsock	vmware-tools-distrib/installer/services.sh	/^vmware_stop_vsock() {$/;"	f
+vmware_success	vmware-tools-distrib/installer/services.sh	/^vmware_success() {$/;"	f
+vmware_switch	vmware-tools-distrib/installer/services.sh	/^vmware_switch() {$/;"	f
+vmware_synchrone_kill	vmware-tools-distrib/installer/services.sh	/^vmware_synchrone_kill() {$/;"	f
+vmware_thinprint_get_tty	vmware-tools-distrib/installer/services.sh	/^vmware_thinprint_get_tty() {$/;"	f
+vmware_unload_module	vmware-tools-distrib/installer/services.sh	/^vmware_unload_module() {$/;"	f
+vmware_unmount_vmhgfs	vmware-tools-distrib/installer/services.sh	/^vmware_unmount_vmhgfs() {$/;"	f
+vmware_user_request_release_resources	vmware-tools-distrib/installer/services.sh	/^vmware_user_request_release_resources() {$/;"	f
+vmware_vgauth_enabled	vmware-tools-distrib/installer/services.sh	/^vmware_vgauth_enabled() {$/;"	f
+vmware_vmhgfs_can_use_fuse	vmware-tools-distrib/installer/services.sh	/^vmware_vmhgfs_can_use_fuse() {$/;"	f
+vmware_vmhgfs_use_fuse	vmware-tools-distrib/installer/services.sh	/^vmware_vmhgfs_use_fuse() {$/;"	f
+vmware_warn_failure	vmware-tools-distrib/installer/services.sh	/^vmware_warn_failure() {$/;"	f
+wrap	vmware-tools-distrib/installer/services.sh	/^wrap () {$/;"	f
+isSELinuxEnabled	vmware-tools-distrib/installer/thinprint.sh	/^isSELinuxEnabled() {$/;"	f
+is_ESX_running	vmware-tools-distrib/installer/thinprint.sh	/^is_ESX_running() {$/;"	f
+launch_binary	vmware-tools-distrib/installer/thinprint.sh	/^launch_binary() {$/;"	f
+load_settings	vmware-tools-distrib/installer/thinprint.sh	/^load_settings() {$/;"	f
+main	vmware-tools-distrib/installer/thinprint.sh	/^main()$/;"	f
+make_tmp_dir	vmware-tools-distrib/installer/thinprint.sh	/^make_tmp_dir() {$/;"	f
+vmware_bg_exec	vmware-tools-distrib/installer/thinprint.sh	/^vmware_bg_exec() {$/;"	f
+vmware_check_pidfile	vmware-tools-distrib/installer/thinprint.sh	/^vmware_check_pidfile() {$/;"	f
+vmware_delay_for_node	vmware-tools-distrib/installer/thinprint.sh	/^vmware_delay_for_node() {$/;"	f
+vmware_exec	vmware-tools-distrib/installer/thinprint.sh	/^vmware_exec() {$/;"	f
+vmware_exec_selinux	vmware-tools-distrib/installer/thinprint.sh	/^vmware_exec_selinux() {$/;"	f
+vmware_failed	vmware-tools-distrib/installer/thinprint.sh	/^vmware_failed() {$/;"	f
+vmware_inVM	vmware-tools-distrib/installer/thinprint.sh	/^vmware_inVM() {$/;"	f
+vmware_isModuleInstalled	vmware-tools-distrib/installer/thinprint.sh	/^vmware_isModuleInstalled() {$/;"	f
+vmware_is_osp	vmware-tools-distrib/installer/thinprint.sh	/^vmware_is_osp() {$/;"	f
+vmware_is_process_alive	vmware-tools-distrib/installer/thinprint.sh	/^vmware_is_process_alive() {$/;"	f
+vmware_load_module	vmware-tools-distrib/installer/thinprint.sh	/^vmware_load_module() {$/;"	f
+vmware_modprobe	vmware-tools-distrib/installer/thinprint.sh	/^vmware_modprobe() {$/;"	f
+vmware_product	vmware-tools-distrib/installer/thinprint.sh	/^vmware_product() {$/;"	f
+vmware_product_name	vmware-tools-distrib/installer/thinprint.sh	/^vmware_product_name() {$/;"	f
+vmware_rm_stale_node	vmware-tools-distrib/installer/thinprint.sh	/^vmware_rm_stale_node() {$/;"	f
+vmware_start_thinprint	vmware-tools-distrib/installer/thinprint.sh	/^vmware_start_thinprint() {$/;"	f
+vmware_stop_pidfile	vmware-tools-distrib/installer/thinprint.sh	/^vmware_stop_pidfile() {$/;"	f
+vmware_stop_thinprint	vmware-tools-distrib/installer/thinprint.sh	/^vmware_stop_thinprint() {$/;"	f
+vmware_success	vmware-tools-distrib/installer/thinprint.sh	/^vmware_success() {$/;"	f
+vmware_synchrone_kill	vmware-tools-distrib/installer/thinprint.sh	/^vmware_synchrone_kill() {$/;"	f
+vmware_thinprint_confed	vmware-tools-distrib/installer/thinprint.sh	/^vmware_thinprint_confed() {$/;"	f
+vmware_thinprint_get_tty	vmware-tools-distrib/installer/thinprint.sh	/^vmware_thinprint_get_tty() {$/;"	f
+vmware_unload_module	vmware-tools-distrib/installer/thinprint.sh	/^vmware_unload_module() {$/;"	f
+wrap	vmware-tools-distrib/installer/thinprint.sh	/^wrap () {$/;"	f
+db_add_answer	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_add_answer() {$/;"	f
+db_add_dir	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_add_dir() {$/;"	f
+db_add_file	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_add_file() {$/;"	f
+db_answer_add	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_answer_add() {$/;"	f
+db_answer_remove	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_answer_remove() {$/;"	f
+db_iterate	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_iterate() {$/;"	f
+db_load	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_load() {$/;"	f
+db_load_from_stdin	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_load_from_stdin() {$/;"	f
+db_remove_answer	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_remove_answer() {$/;"	f
+db_remove_file	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^db_remove_file() {$/;"	f
+readlinkf	vmware-tools-distrib/lib/bin32/configure-gtk.sh	/^readlinkf() {$/;"	f
+db_add_answer	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_add_answer() {$/;"	f
+db_add_dir	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_add_dir() {$/;"	f
+db_add_file	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_add_file() {$/;"	f
+db_answer_add	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_answer_add() {$/;"	f
+db_answer_remove	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_answer_remove() {$/;"	f
+db_iterate	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_iterate() {$/;"	f
+db_load	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_load() {$/;"	f
+db_load_from_stdin	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_load_from_stdin() {$/;"	f
+db_remove_answer	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_remove_answer() {$/;"	f
+db_remove_file	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^db_remove_file() {$/;"	f
+readlinkf	vmware-tools-distrib/lib/bin64/configure-gtk.sh	/^readlinkf() {$/;"	f
+AF_VSOCK_LOCAL	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	624;"	d
+AF_VSOCK_LOCAL	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	632;"	d
+SO_VMCI_BUFFER_MAX_SIZE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	115;"	d
+SO_VMCI_BUFFER_MIN_SIZE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	88;"	d
+SO_VMCI_BUFFER_SIZE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	61;"	d
+SO_VMCI_CONNECT_TIMEOUT	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	199;"	d
+SO_VMCI_NONBLOCK_TXRX	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	231;"	d
+SO_VMCI_PEER_HOST_VM_ID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	140;"	d
+SO_VMCI_SERVICE_LABEL	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	152;"	d
+SO_VMCI_TRUSTED	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	175;"	d
+VMADDR_CID_ANY	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	258;"	d
+VMADDR_PORT_ANY	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	284;"	d
+VMCISock_GetAFValue	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline int VMCISock_GetAFValue(void)$/;"	f
+VMCISock_GetAFValue	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   static inline int VMCISock_GetAFValue(void)$/;"	f
+VMCISock_GetAFValue	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	834;"	d
+VMCISock_GetAFValueFd	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline int VMCISock_GetAFValueFd(int *outFd)$/;"	f
+VMCISock_GetAFValueFd	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   static inline int VMCISock_GetAFValueFd(int *outFd)$/;"	f
+VMCISock_GetAFValueFd	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	833;"	d
+VMCISock_GetLocalCID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline unsigned int VMCISock_GetLocalCID(void)$/;"	f
+VMCISock_GetLocalCID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   static inline unsigned int VMCISock_GetLocalCID(void)$/;"	f
+VMCISock_GetLocalCID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	836;"	d
+VMCISock_ReleaseAFValueFd	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline void VMCISock_ReleaseAFValueFd(int fd)$/;"	f
+VMCISock_ReleaseAFValueFd	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   static inline void VMCISock_ReleaseAFValueFd(int fd)$/;"	f
+VMCISock_ReleaseAFValueFd	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	835;"	d
+VMCISock_Uuid2ContextId	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline unsigned int VMCISock_Uuid2ContextId(const char *uuidString)$/;"	f
+VMCISock_Uuid2ContextId	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   static inline unsigned int VMCISock_Uuid2ContextId(const char *uuidString)$/;"	f
+VMCISock_Uuid2ContextId	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	837;"	d
+VMCISock_Version	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline unsigned int VMCISock_Version(void)$/;"	f
+VMCISock_Version	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   static inline unsigned int VMCISock_Version(void)$/;"	f
+VMCISock_Version	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	832;"	d
+VMCI_SOCKETS_CLASSIC_ESX_DEVICE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	497;"	d
+VMCI_SOCKETS_DEFAULT_DEVICE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	496;"	d
+VMCI_SOCKETS_DEVICE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	412;"	d
+VMCI_SOCKETS_GET_AF_VALUE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	414;"	d
+VMCI_SOCKETS_GET_AF_VALUE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	500;"	d
+VMCI_SOCKETS_GET_AF_VALUE	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	506;"	d
+VMCI_SOCKETS_GET_LOCAL_CID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	415;"	d
+VMCI_SOCKETS_GET_LOCAL_CID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	501;"	d
+VMCI_SOCKETS_GET_LOCAL_CID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	507;"	d
+VMCI_SOCKETS_INVALID_VERSION	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	292;"	d
+VMCI_SOCKETS_UUID_2_CID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	416;"	d
+VMCI_SOCKETS_UUID_2_CID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	502;"	d
+VMCI_SOCKETS_UUID_2_CID	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	508;"	d
+VMCI_SOCKETS_VERSION	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	413;"	d
+VMCI_SOCKETS_VERSION	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	499;"	d
+VMCI_SOCKETS_VERSION	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	505;"	d
+VMCI_SOCKETS_VERSION_EPOCH	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	309;"	d
+VMCI_SOCKETS_VERSION_MAJOR	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	327;"	d
+VMCI_SOCKETS_VERSION_MINOR	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	344;"	d
+_VMCI_SOCKETS_H_	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	12;"	d
+__VMCISock_DeviceIoControl	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      static __inline unsigned int __VMCISock_DeviceIoControl(DWORD cmd)$/;"	f
+sa_data	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      char sa_data[14];$/;"	m	struct:sockaddr
+sa_family	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^      sa_family_t sa_family;$/;"	m	struct:sockaddr
+sa_family_t	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   typedef unsigned short sa_family_t;$/;"	t
+sockaddr	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   struct sockaddr {$/;"	s
+sockaddr_vm	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^struct sockaddr_vm {$/;"	s
+svm_cid	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned int svm_cid;$/;"	m	struct:sockaddr_vm
+svm_family	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   sa_family_t svm_family;$/;"	m	struct:sockaddr_vm
+svm_len	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned char svm_len;$/;"	m	struct:sockaddr_vm
+svm_port	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned int svm_port;$/;"	m	struct:sockaddr_vm
+svm_reserved1	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned short svm_reserved1;$/;"	m	struct:sockaddr_vm
+svm_zero	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned char svm_zero[sizeof(struct sockaddr) -$/;"	m	struct:sockaddr_vm
+u2c_context_id	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned int u2c_context_id;$/;"	m	struct:uuid_2_cid
+u2c_pad	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   unsigned int u2c_pad;$/;"	m	struct:uuid_2_cid
+u2c_uuid_string	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^   char u2c_uuid_string[128];$/;"	m	struct:uuid_2_cid
+uuid_2_cid	vmware-tools-distrib/lib/include/vmci/vmci_sockets.h	/^struct uuid_2_cid {$/;"	s
+addDBOptions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub addDBOptions {$/;"	s
+addLoggingOptions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub addLoggingOptions {$/;"	s
+addOSInfoOptions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub addOSInfoOptions {$/;"	s
+addOption	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub addOption {$/;"	s
+addTextToKVEntryInFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub addTextToKVEntryInFile {$/;"	s
+blockAppend	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub blockAppend {$/;"	s
+blockGetContents	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub blockGetContents {$/;"	s
+blockGetContentsStr	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub blockGetContentsStr {$/;"	s
+blockInsert	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub blockInsert {$/;"	s
+blockRemove	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub blockRemove {$/;"	s
+checkMountForTools	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub checkMountForTools {$/;"	s
+cleanupAndExit	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub cleanupAndExit {$/;"	s
+closeLogFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub closeLogFile {$/;"	s
+configureThinPrint	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub configureThinPrint {$/;"	s
+dbAddAnswer	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbAddAnswer {$/;"	s
+dbAddDir	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbAddDir {$/;"	s
+dbAddFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbAddFile {$/;"	s
+dbAppend	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbAppend {$/;"	s
+dbGetAnswer	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbGetAnswer {$/;"	s
+dbGetAnswerIfExists	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbGetAnswerIfExists {$/;"	s
+dbGetDirsWithTag	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbGetDirsWithTag {$/;"	s
+dbGetFilePath	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbGetFilePath {$/;"	s
+dbGetFilesWithTag	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbGetFilesWithTag {$/;"	s
+dbLoad	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbLoad {$/;"	s
+dbRemoveAnswer	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbRemoveAnswer {$/;"	s
+dbRemoveDir	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbRemoveDir {$/;"	s
+dbRemoveFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbRemoveFile {$/;"	s
+dbSave	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbSave {$/;"	s
+dbSetFilePath	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dbSetFilePath {$/;"	s
+db_AddEntriesToTagsHash	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub db_AddEntriesToTagsHash {$/;"	s
+db_RmEntryFromTagsHash	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub db_RmEntryFromTagsHash {$/;"	s
+db_getTagsHash	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub db_getTagsHash {$/;"	s
+debug	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub debug {$/;"	s
+devel	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub devel {$/;"	s
+dirRemoveTrailingSlashes	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub dirRemoveTrailingSlashes {$/;"	s
+ejectToolsInstallCD	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub ejectToolsInstallCD {$/;"	s
+error	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub error {$/;"	s
+fileNameExist	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub fileNameExist {$/;"	s
+getArch	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getArch() {$/;"	s
+getCdMounts	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getCdMounts {$/;"	s
+getOSInfo	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getOSInfo {$/;"	s
+getOSKeys	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getOSKeys {$/;"	s
+getOptionValue	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getOptionValue {$/;"	s
+getPathOfRunningPerl	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getPathOfRunningPerl {$/;"	s
+getRelease	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getRelease() {$/;"	s
+getTmpDir	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getTmpDir {$/;"	s
+getTmpFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getTmpFile {$/;"	s
+getVmwareSbinPath	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub getVmwareSbinPath {$/;"	s
+info	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub info {$/;"	s
+internalBasename	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalBasename {$/;"	s
+internalCp	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalCp {$/;"	s
+internalDirname	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalDirname {$/;"	s
+internalMkdir	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalMkdir {$/;"	s
+internalMv	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalMv {$/;"	s
+internalRm	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalRm {$/;"	s
+internalWhich	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub internalWhich {$/;"	s
+isRoot	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub isRoot {$/;"	s
+isSElinuxEnabled	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub isSElinuxEnabled {$/;"	s
+loadConfigFunction	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^   sub loadConfigFunction {return 1;}$/;"	s
+loadCoreModule	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^   sub loadCoreModule {return 1;}$/;"	s
+loadModule	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^   sub loadModule {return 1;}$/;"	s
+logging_getFilePath	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub logging_getFilePath {$/;"	s
+logging_init	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub logging_init() {$/;"	s
+logging_logMessage	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub logging_logMessage {$/;"	s
+logging_openLogFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub logging_openLogFile {$/;"	s
+makeTmpDir	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub makeTmpDir {$/;"	s
+parseDBOptions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub parseDBOptions {$/;"	s
+parseLogLevelOptions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub parseLogLevelOptions {$/;"	s
+parseOSInfoOptions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub parseOSInfoOptions {$/;"	s
+parseOptionArgs	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub parseOptionArgs {$/;"	s
+printOptionUsage	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub printOptionUsage {$/;"	s
+removeDuplicateEntries	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub removeDuplicateEntries {$/;"	s
+removeTextInKVEntryInFile	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub removeTextInKVEntryInFile {$/;"	s
+restorecon	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub restorecon {$/;"	s
+rootUserCheck	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub rootUserCheck {$/;"	s
+runShellCmd	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub runShellCmd {$/;"	s
+runtime_main	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub runtime_main {$/;"	s
+safeChmod	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub safeChmod {$/;"	s
+safeChown	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub safeChown {$/;"	s
+sendRpc	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub sendRpc {$/;"	s
+sendTermRpcMsgs	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub sendTermRpcMsgs {$/;"	s
+setOSInfo	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub setOSInfo {$/;"	s
+thinprintSetPermissions	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub thinprintSetPermissions {$/;"	s
+thinprintSetSELinux	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub thinprintSetSELinux {$/;"	s
+thinprint_deconfig_main	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub thinprint_deconfig_main {$/;"	s
+thinprint_onetime_config_main	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub thinprint_onetime_config_main {$/;"	s
+unmountDevice	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub unmountDevice {$/;"	s
+warning	vmware-tools-distrib/lib/moduleScripts/thinprint/vmware-db.pl	/^sub warning {$/;"	s
+DoesBinaryExist_Prompt	vmware-tools-distrib/vmware-install.real.pl	/^sub DoesBinaryExist_Prompt {$/;"	s
+DoesOSMatchProduct	vmware-tools-distrib/vmware-install.real.pl	/^sub DoesOSMatchProduct {$/;"	s
+addTextToKVEntryInFile	vmware-tools-distrib/vmware-install.real.pl	/^sub addTextToKVEntryInFile {$/;"	s
+alt_db_get_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub alt_db_get_answer  {$/;"	s
+append_output	vmware-tools-distrib/vmware-install.real.pl	/^sub append_output {$/;"	s
+backup_file	vmware-tools-distrib/vmware-install.real.pl	/^sub backup_file {$/;"	s
+block_append	vmware-tools-distrib/vmware-install.real.pl	/^sub block_append {$/;"	s
+block_append_with_db_answer_entry	vmware-tools-distrib/vmware-install.real.pl	/^sub block_append_with_db_answer_entry {$/;"	s
+block_insert	vmware-tools-distrib/vmware-install.real.pl	/^sub block_insert {$/;"	s
+block_match	vmware-tools-distrib/vmware-install.real.pl	/^sub block_match {$/;"	s
+block_remove	vmware-tools-distrib/vmware-install.real.pl	/^sub block_remove {$/;"	s
+block_restore	vmware-tools-distrib/vmware-install.real.pl	/^sub block_restore {$/;"	s
+build_perl_api	vmware-tools-distrib/vmware-install.real.pl	/^sub build_perl_api {$/;"	s
+checkDPKGForPackages	vmware-tools-distrib/vmware-install.real.pl	/^sub checkDPKGForPackages {$/;"	s
+checkRPMForPackages	vmware-tools-distrib/vmware-install.real.pl	/^sub checkRPMForPackages {$/;"	s
+check_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer {$/;"	s
+check_answer_authdport	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_authdport {$/;"	s
+check_answer_binpath	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_binpath {$/;"	s
+check_answer_dirpath	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_dirpath {$/;"	s
+check_answer_existdirpath	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_existdirpath {$/;"	s
+check_answer_initdirpath	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_initdirpath {$/;"	s
+check_answer_initscriptsdirpath	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_initscriptsdirpath {$/;"	s
+check_answer_username	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_username {$/;"	s
+check_answer_yesno	vmware-tools-distrib/vmware-install.real.pl	/^sub check_answer_yesno {$/;"	s
+check_disk_space	vmware-tools-distrib/vmware-install.real.pl	/^sub check_disk_space {$/;"	s
+check_is_running	vmware-tools-distrib/vmware-install.real.pl	/^sub check_is_running {$/;"	s
+check_mountpoint_for_tools	vmware-tools-distrib/vmware-install.real.pl	/^sub check_mountpoint_for_tools {$/;"	s
+check_ovt_compatibility	vmware-tools-distrib/vmware-install.real.pl	/^sub check_ovt_compatibility {$/;"	s
+compare_version_strings	vmware-tools-distrib/vmware-install.real.pl	/^sub compare_version_strings {$/;"	s
+compute_subnet	vmware-tools-distrib/vmware-install.real.pl	/^sub compute_subnet {$/;"	s
+configure_gtk2	vmware-tools-distrib/vmware-install.real.pl	/^sub configure_gtk2 {$/;"	s
+configure_vnetlib	vmware-tools-distrib/vmware-install.real.pl	/^sub configure_vnetlib() {$/;"	s
+create_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub create_dir {$/;"	s
+create_initial_database	vmware-tools-distrib/vmware-install.real.pl	/^sub create_initial_database {$/;"	s
+db_add_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub db_add_answer {$/;"	s
+db_add_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub db_add_dir {$/;"	s
+db_add_file	vmware-tools-distrib/vmware-install.real.pl	/^sub db_add_file {$/;"	s
+db_append	vmware-tools-distrib/vmware-install.real.pl	/^sub db_append {$/;"	s
+db_clear	vmware-tools-distrib/vmware-install.real.pl	/^sub db_clear {$/;"	s
+db_dir_in	vmware-tools-distrib/vmware-install.real.pl	/^sub db_dir_in {$/;"	s
+db_file_in	vmware-tools-distrib/vmware-install.real.pl	/^sub db_file_in {$/;"	s
+db_file_ts	vmware-tools-distrib/vmware-install.real.pl	/^sub db_file_ts {$/;"	s
+db_get_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub db_get_answer {$/;"	s
+db_get_answer_if_exists	vmware-tools-distrib/vmware-install.real.pl	/^sub db_get_answer_if_exists {$/;"	s
+db_get_files_to_restore	vmware-tools-distrib/vmware-install.real.pl	/^sub db_get_files_to_restore {$/;"	s
+db_is_file_changed	vmware-tools-distrib/vmware-install.real.pl	/^sub db_is_file_changed {$/;"	s
+db_load	vmware-tools-distrib/vmware-install.real.pl	/^sub db_load {$/;"	s
+db_remove_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub db_remove_answer {$/;"	s
+db_remove_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub db_remove_dir {$/;"	s
+db_remove_file	vmware-tools-distrib/vmware-install.real.pl	/^sub db_remove_file {$/;"	s
+db_save	vmware-tools-distrib/vmware-install.real.pl	/^sub db_save {$/;"	s
+deconfigure_dracut	vmware-tools-distrib/vmware-install.real.pl	/^sub deconfigure_dracut {$/;"	s
+deconfigure_initmodfile	vmware-tools-distrib/vmware-install.real.pl	/^sub deconfigure_initmodfile {$/;"	s
+deconfigure_initrd_suse	vmware-tools-distrib/vmware-install.real.pl	/^sub deconfigure_initrd_suse {$/;"	s
+deconfigure_updatedb	vmware-tools-distrib/vmware-install.real.pl	/^sub deconfigure_updatedb {$/;"	s
+deconfigure_vnetlib	vmware-tools-distrib/vmware-install.real.pl	/^sub deconfigure_vnetlib() {$/;"	s
+depmod_all_kernels	vmware-tools-distrib/vmware-install.real.pl	/^sub depmod_all_kernels {$/;"	s
+dir_remove_trailing_slashes	vmware-tools-distrib/vmware-install.real.pl	/^sub dir_remove_trailing_slashes {$/;"	s
+direct_command	vmware-tools-distrib/vmware-install.real.pl	/^sub direct_command {$/;"	s
+dot_version_compare	vmware-tools-distrib/vmware-install.real.pl	/^sub dot_version_compare {$/;"	s
+eject_tools_install_cd_if_mounted	vmware-tools-distrib/vmware-install.real.pl	/^sub eject_tools_install_cd_if_mounted {$/;"	s
+error	vmware-tools-distrib/vmware-install.real.pl	/^sub error {$/;"	s
+file_check_exist	vmware-tools-distrib/vmware-install.real.pl	/^sub file_check_exist {$/;"	s
+file_name_exist	vmware-tools-distrib/vmware-install.real.pl	/^sub file_name_exist {$/;"	s
+filter_out_bkp_changed_files	vmware-tools-distrib/vmware-install.real.pl	/^sub filter_out_bkp_changed_files {$/;"	s
+finalize_vix_install	vmware-tools-distrib/vmware-install.real.pl	/^sub finalize_vix_install {$/;"	s
+find_vix_tar	vmware-tools-distrib/vmware-install.real.pl	/^sub find_vix_tar {$/;"	s
+generate_initscript_patch	vmware-tools-distrib/vmware-install.real.pl	/^sub generate_initscript_patch {$/;"	s
+getFreeBSDBinSuffix	vmware-tools-distrib/vmware-install.real.pl	/^sub getFreeBSDBinSuffix {$/;"	s
+getFreeBSDLibSuffix	vmware-tools-distrib/vmware-install.real.pl	/^sub getFreeBSDLibSuffix {$/;"	s
+getFreeBSDSbinSuffix	vmware-tools-distrib/vmware-install.real.pl	/^sub getFreeBSDSbinSuffix {$/;"	s
+getFreeBSDSuffix	vmware-tools-distrib/vmware-install.real.pl	/^sub getFreeBSDSuffix {$/;"	s
+getFreeBSDVersion	vmware-tools-distrib/vmware-install.real.pl	/^sub getFreeBSDVersion {$/;"	s
+getKernRel	vmware-tools-distrib/vmware-install.real.pl	/^sub getKernRel {$/;"	s
+getKernRelInteger	vmware-tools-distrib/vmware-install.real.pl	/^sub getKernRelInteger {$/;"	s
+get_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub get_answer {$/;"	s
+get_cc	vmware-tools-distrib/vmware-install.real.pl	/^sub get_cc {$/;"	s
+get_hal_script_name	vmware-tools-distrib/vmware-install.real.pl	/^sub get_hal_script_name {$/;"	s
+get_initial_database	vmware-tools-distrib/vmware-install.real.pl	/^sub get_initial_database {$/;"	s
+get_initscriptsdir	vmware-tools-distrib/vmware-install.real.pl	/^sub get_initscriptsdir {$/;"	s
+get_installed_kind	vmware-tools-distrib/vmware-install.real.pl	/^sub get_installed_kind() {$/;"	s
+get_installed_product_bin	vmware-tools-distrib/vmware-install.real.pl	/^sub get_installed_product_bin {$/;"	s
+get_installed_version	vmware-tools-distrib/vmware-install.real.pl	/^sub get_installed_version() {$/;"	s
+get_persistent_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub get_persistent_answer {$/;"	s
+identify_linux_variant	vmware-tools-distrib/vmware-install.real.pl	/^sub identify_linux_variant {$/;"	s
+init_product_arch_hash	vmware-tools-distrib/vmware-install.real.pl	/^sub init_product_arch_hash {$/;"	s
+initialize_external_helpers	vmware-tools-distrib/vmware-install.real.pl	/^sub initialize_external_helpers {$/;"	s
+initialize_globals	vmware-tools-distrib/vmware-install.real.pl	/^sub initialize_globals {$/;"	s
+install_content	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content {$/;"	s
+install_content_caf	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_caf {$/;"	s
+install_content_guestproxy	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_guestproxy {$/;"	s
+install_content_nvdk	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_nvdk {$/;"	s
+install_content_player	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_player {$/;"	s
+install_content_tools	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_tools {$/;"	s
+install_content_tools_etc_openvmcompat	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_tools_etc_openvmcompat {$/;"	s
+install_content_vgauth	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_vgauth {$/;"	s
+install_content_vix	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_vix {$/;"	s
+install_content_vix_disklib	vmware-tools-distrib/vmware-install.real.pl	/^sub install_content_vix_disklib {$/;"	s
+install_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub install_dir {$/;"	s
+install_file	vmware-tools-distrib/vmware-install.real.pl	/^sub install_file {$/;"	s
+install_module	vmware-tools-distrib/vmware-install.real.pl	/^sub install_module {$/;"	s
+install_or_upgrade	vmware-tools-distrib/vmware-install.real.pl	/^sub install_or_upgrade {$/;"	s
+install_perl_api	vmware-tools-distrib/vmware-install.real.pl	/^sub install_perl_api {$/;"	s
+install_permission	vmware-tools-distrib/vmware-install.real.pl	/^sub install_permission {$/;"	s
+install_symlink	vmware-tools-distrib/vmware-install.real.pl	/^sub install_symlink {$/;"	s
+install_usage	vmware-tools-distrib/vmware-install.real.pl	/^sub install_usage {$/;"	s
+installed_product_mismatch	vmware-tools-distrib/vmware-install.real.pl	/^sub installed_product_mismatch {$/;"	s
+int_to_quaddot	vmware-tools-distrib/vmware-install.real.pl	/^sub int_to_quaddot {$/;"	s
+internalMv	vmware-tools-distrib/vmware-install.real.pl	/^sub internalMv {$/;"	s
+internal_basename	vmware-tools-distrib/vmware-install.real.pl	/^sub internal_basename {$/;"	s
+internal_dirname	vmware-tools-distrib/vmware-install.real.pl	/^sub internal_dirname {$/;"	s
+internal_ls	vmware-tools-distrib/vmware-install.real.pl	/^sub internal_ls {$/;"	s
+internal_sed	vmware-tools-distrib/vmware-install.real.pl	/^sub internal_sed {$/;"	s
+internal_which	vmware-tools-distrib/vmware-install.real.pl	/^sub internal_which {$/;"	s
+is64BitUserLand	vmware-tools-distrib/vmware-install.real.pl	/^sub is64BitUserLand {$/;"	s
+isDesktopProduct	vmware-tools-distrib/vmware-install.real.pl	/^sub isDesktopProduct {$/;"	s
+isToolsProduct	vmware-tools-distrib/vmware-install.real.pl	/^sub isToolsProduct {$/;"	s
+is_root	vmware-tools-distrib/vmware-install.real.pl	/^sub is_root {$/;"	s
+is_selinux_enabled	vmware-tools-distrib/vmware-install.real.pl	/^sub is_selinux_enabled {$/;"	s
+kernel_version_integer	vmware-tools-distrib/vmware-install.real.pl	/^sub kernel_version_integer {$/;"	s
+kmod_unload	vmware-tools-distrib/vmware-install.real.pl	/^sub kmod_unload {$/;"	s
+load_config	vmware-tools-distrib/vmware-install.real.pl	/^sub load_config() {$/;"	s
+locate_upstart_jobinfo	vmware-tools-distrib/vmware-install.real.pl	/^sub locate_upstart_jobinfo() {$/;"	s
+main	vmware-tools-distrib/vmware-install.real.pl	/^sub main {$/;"	s
+make_tmp_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub make_tmp_dir {$/;"	s
+perl_config_fail	vmware-tools-distrib/vmware-install.real.pl	/^sub perl_config_fail {$/;"	s
+prelink_fix	vmware-tools-distrib/vmware-install.real.pl	/^sub prelink_fix {$/;"	s
+prelink_restore	vmware-tools-distrib/vmware-install.real.pl	/^sub prelink_restore {$/;"	s
+preuninstall_installed_tools	vmware-tools-distrib/vmware-install.real.pl	/^sub preuninstall_installed_tools {$/;"	s
+product_os_match	vmware-tools-distrib/vmware-install.real.pl	/^sub product_os_match {$/;"	s
+prompt_user_to_remove_installed_product	vmware-tools-distrib/vmware-install.real.pl	/^sub prompt_user_to_remove_installed_product {$/;"	s
+quaddot_to_int	vmware-tools-distrib/vmware-install.real.pl	/^sub quaddot_to_int {$/;"	s
+query	vmware-tools-distrib/vmware-install.real.pl	/^sub query {$/;"	s
+removeDEBPackages	vmware-tools-distrib/vmware-install.real.pl	/^sub removeDEBPackages {$/;"	s
+removeDuplicateEntries	vmware-tools-distrib/vmware-install.real.pl	/^sub removeDuplicateEntries {$/;"	s
+removeRPMPackages	vmware-tools-distrib/vmware-install.real.pl	/^sub removeRPMPackages {$/;"	s
+removeTextInKVEntryInFile	vmware-tools-distrib/vmware-install.real.pl	/^sub removeTextInKVEntryInFile {$/;"	s
+remove_tmp_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub remove_tmp_dir {$/;"	s
+remove_whitespaces	vmware-tools-distrib/vmware-install.real.pl	/^sub remove_whitespaces {$/;"	s
+restart_hal	vmware-tools-distrib/vmware-install.real.pl	/^sub restart_hal {$/;"	s
+restore_appended_files	vmware-tools-distrib/vmware-install.real.pl	/^sub restore_appended_files {$/;"	s
+restore_backedup_files	vmware-tools-distrib/vmware-install.real.pl	/^sub restore_backedup_files {$/;"	s
+restore_kernel_initrd	vmware-tools-distrib/vmware-install.real.pl	/^sub restore_kernel_initrd {$/;"	s
+restorecon	vmware-tools-distrib/vmware-install.real.pl	/^sub restorecon {$/;"	s
+safe_chmod	vmware-tools-distrib/vmware-install.real.pl	/^sub safe_chmod {$/;"	s
+safe_mkdir	vmware-tools-distrib/vmware-install.real.pl	/^sub safe_mkdir {$/;"	s
+safely_matches	vmware-tools-distrib/vmware-install.real.pl	/^sub safely_matches {$/;"	s
+send_rpc	vmware-tools-distrib/vmware-install.real.pl	/^sub send_rpc {$/;"	s
+send_rpc_failed_msgs	vmware-tools-distrib/vmware-install.real.pl	/^sub send_rpc_failed_msgs {$/;"	s
+shell_string	vmware-tools-distrib/vmware-install.real.pl	/^sub shell_string {$/;"	s
+show_EULA	vmware-tools-distrib/vmware-install.real.pl	/^sub show_EULA {$/;"	s
+sigint_handler	vmware-tools-distrib/vmware-install.real.pl	/^sub sigint_handler {$/;"	s
+solaris_os_version	vmware-tools-distrib/vmware-install.real.pl	/^sub solaris_os_version {$/;"	s
+spacechk_answer	vmware-tools-distrib/vmware-install.real.pl	/^sub spacechk_answer {$/;"	s
+unconfigure_autostart_legacy	vmware-tools-distrib/vmware-install.real.pl	/^sub unconfigure_autostart_legacy {$/;"	s
+uninstall	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall {$/;"	s
+uninstall_content_caf	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_content_caf {$/;"	s
+uninstall_content_caf_process_files	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_content_caf_process_files {$/;"	s
+uninstall_content_guestproxy	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_content_guestproxy {$/;"	s
+uninstall_content_legacy_tools	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_content_legacy_tools {$/;"	s
+uninstall_dir	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_dir {$/;"	s
+uninstall_file	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_file {$/;"	s
+uninstall_module	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_module {$/;"	s
+uninstall_prefix	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_prefix {$/;"	s
+uninstall_vix	vmware-tools-distrib/vmware-install.real.pl	/^sub uninstall_vix {$/;"	s
+unset_kmod_db_entries	vmware-tools-distrib/vmware-install.real.pl	/^sub unset_kmod_db_entries {$/;"	s
+vmware_longname	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_longname {$/;"	s
+vmware_product	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_product {$/;"	s
+vmware_product_architecture	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_product_architecture {$/;"	s
+vmware_product_name	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_product_name {$/;"	s
+vmware_service_basename	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_service_basename {$/;"	s
+vmware_service_issue_command	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_service_issue_command {$/;"	s
+vmware_service_issue_command1	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_service_issue_command1 {$/;"	s
+vmware_service_path	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_service_path {$/;"	s
+vmware_services_table	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_services_table()$/;"	s
+vmware_version	vmware-tools-distrib/vmware-install.real.pl	/^sub vmware_version {$/;"	s
+wrap	vmware-tools-distrib/vmware-install.real.pl	/^sub wrap {$/;"	s
+wrap_one_char	vmware-tools-distrib/vmware-install.real.pl	/^sub wrap_one_char {$/;"	s
