@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 
 	pthread_mutex_init(&lock, NULL);
 	for(started=0; started<NUM_THREADS; started++)
-		pthread_create(&threads[started], NULL, search, (void *)pid);
+		pthread_create(&threads[started], NULL, search, (void *)&pid);
 
 	for(i=0; i<NUM_THREADS; i++)
 		pthread_join(threads[i], NULL);
@@ -43,10 +43,10 @@ void print_it(void *arg)
 
 void *search(void *arg)
 {
-	int num = (int) arg;
+	int num = *(int *)arg;
 	int i,j,ntries;
 	pthread_t tid;
-	
+		
 	tid = pthread_self();
 	while(pthread_mutex_trylock(&lock) == EBUSY)
 		pthread_testcancel();
@@ -61,6 +61,7 @@ void *search(void *arg)
 	while(started < NUM_THREADS)
 		sched_yield();
 	pthread_cleanup_push(print_it, (void *)&ntries);
+	printf("i=%d, %ld\n", i, sizeof(i));
 
 	while(1)
 	{
@@ -75,13 +76,18 @@ void *search(void *arg)
 
 			for(j=0; j<NUM_THREADS; j++)
 				if(threads[j] != tid)
+				{
 					pthread_cancel(threads[j]);
+					
+				}
 			break;
 		}
 		if(ntries%100 == 0)
+		{
 			pthread_testcancel();
+		}		
 	}
-	pthread_cleanup_pop(0);
+	pthread_cleanup_pop(1);
+	printf("%lx\n", tid);
 	return ((void *)0);
-
 }

@@ -1,0 +1,6 @@
+#! /bin/bash
+#Display a line
+for i in `seq 9`
+do
+	echo $i
+done

@@ -4,6 +4,8 @@
 #include <signal.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <error.h>
+#include <errno.h>
 
 #define LISTENQ 5		
 
@@ -59,8 +61,15 @@ int main()
 			printf("Receive EOF.\n");
 			return 0;
 		}
-		buff[n] = 0;
-		printf("read %d byte :%s\n", n, buff);
+		else if(n > 0)
+		{
+			buff[n] = 0;
+			printf("read %d byte :%s\n", n, buff);
+		}
+		else if(n == -1)
+		{
+			perror("Read error");
+		}
 	}
 	return 0;
 }

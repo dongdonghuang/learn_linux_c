@@ -15,8 +15,11 @@ int main()
 
 	pthread_create(&thread1, NULL, (void *)(&print_message), (void *)msg1);
 	pthread_create(&thread2, NULL, (void *)(&print_message), (void *)msg2);
+	printf("thread1=%ld,thread2=%ld\n",thread1, thread2);
 	pthread_join(thread1, &retval);
+	printf("retval1=%p,thread1=%ld\n",retval, thread1);
 	pthread_join(thread2, &retval);
+	printf("retval2=%p, thread2=%ld\n",retval, thread2);
 	//sleep(1);
 	return 0;
 }

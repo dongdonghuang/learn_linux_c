@@ -42,8 +42,8 @@ int main()
 		char *p;
 		len = sizeof(cliaddr);
 		connfd = accept(listenfd, (struct sockaddr *)&cliaddr, &len);
-		p = inet_ntoa(cliaddr.sin_addr);
-		printf("connect from %s,port %d\n", p, ntohs(cliaddr.sin_port));
+		//p = inet_ntoa(cliaddr.sin_addr);
+		printf("connect from %s,port %d\n", inet_ntoa(cliaddr.sin_addr), ntohs(cliaddr.sin_port));
 
 		ticks = time(NULL);
 		

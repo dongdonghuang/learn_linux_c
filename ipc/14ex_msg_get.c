@@ -4,21 +4,22 @@
 #include <sys/ipc.h>
 #include <sys/msg.h>
 #include <stdlib.h>
+#include <errno.h>
 
 //#define BUFSIZ 512
 
 struct my_msg
 {
 	long int my_msg_type;
-	char text[5];
+	char text[BUFSIZ];
 }msgbuf;
 
 int main()
 {
-	printf("BUFSIZE=%d\n",BUFSIZ);
 	int running = 1;
 	int msgid;
 	long int msg_to_receive = 0;
+	//msgbuf.my_msg_type = 0;
 	msgid = msgget((key_t)1234, 0666|IPC_CREAT);
 
 	if(msgid == -1)
@@ -29,9 +30,9 @@ int main()
 
 	while(running)
 	{
-		if(msgrcv(msgid, (void *)&msgbuf, 5,msg_to_receive, 0) == -1)
+		if(msgrcv(msgid, (void *)&msgbuf, BUFSIZ, msg_to_receive, 0) == -1)
 		{
-			printf("msgrcv failed.\n");
+			perror("msgrcv failed.");
 			exit(1);
 		}
 

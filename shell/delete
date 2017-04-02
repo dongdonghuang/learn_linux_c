@@ -1,0 +1,38 @@
+##Building mechanism recycle bin 
+##when delete something it will move into 
+##the directory of ~/.trash for safe
+
+#!/bin/bash
+
+if [ ! -d ~/.trash]
+	then
+	mkdir ~/.trash
+fi
+
+if [ $# -eq 0 ]
+	then
+	echo "Usage:delete file1 [file2 file3 ...]"
+else
+	echo "You are about to delete these files:"
+	echo $@
+
+	#ask user to sure delete these file.ask N or n cancel delete,others implicit asure to delete
+	echo -n "Are you sure to do that?[Y/N]:"
+	read reply
+
+	if [ "$reply" != "n" ] && [ "$reply" != "N" ]
+	then
+		for file in $@
+		do
+			#judge the file or directory exit or not
+			if [ -f "$file" ] || [ -d "$file" ]
+			then
+				mv -b "$file" ~/.trash
+			else
+				echo "$file:No such file or directory"
+			fi
+		done
+	else
+		echo "No file removed"
+	fi
+fi

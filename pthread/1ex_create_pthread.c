@@ -3,7 +3,7 @@
 //#include <unistd.h>
 #include <pthread.h>
 
-void print_message(char *ptr);
+void print_message(void *ptr);
 
 int main()
 {
@@ -11,17 +11,17 @@ int main()
 	char *msg1 = "Hello\n";
 	char *msg2 = "World\n";
 
-	pthread_create(&thread1, NULL, (void *)(&print_message), (void *)msg1);
-	pthread_create(&thread2, NULL, (void *)(&print_message), (void *)msg2);
+	pthread_create(&thread1, NULL, (void *)&print_message,(void *) msg1);
+	pthread_create(&thread2, NULL, (void *)&print_message, (void *)msg2);
 
 	sleep(1);
 	return 0;
 }
 
-void print_message(char * ptr)
+void print_message(void * ptr)
 {
 	int retval;
-	printf("Thread ID:%lx", pthread_self());
-	printf("%s",ptr);
+	printf("Thread ID:%ld\n", pthread_self());
+	printf("%s",(char *)ptr);
 	pthread_exit(&retval);
 }

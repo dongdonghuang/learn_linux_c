@@ -7,7 +7,7 @@ int main()
 	MYSQL my_connection;
 	mysql_init(&my_connection);
 
-	if(mysql_real_connect(&my_connection, "localhost", "test", "test ",
+	if(mysql_real_connect(&my_connection, "localhost", "test", "test",
 		"testdb", 0, NULL, 0))
 	{
 		printf("Connection Succeed.\n");

@@ -37,7 +37,7 @@ int main()
 		printf("Data receive:%s\n",shm);
 
 		sleep(1);
-		if(strcmp(shm, "end") == 0)
+		if(strncmp(shm, "end", 3) == 0)
 			break;
 	}
 

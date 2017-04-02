@@ -11,7 +11,7 @@ int main()
 		"testdb", 0, NULL, 0))
 	{
 		printf("Connection Succeed.\n");
-		res = mysql_query(&my_connection, "insert into children(fname,age)valuescc('Ann',3)");
+		res = mysql_query(&my_connection, "insert into children(fname,age)values('Ann',3)");
 		if(!res)
 		{
 			printf("Insert %lu row.\n",

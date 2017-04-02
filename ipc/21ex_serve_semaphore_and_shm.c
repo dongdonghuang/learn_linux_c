@@ -38,13 +38,15 @@ int main()
 		fgets(readbuf, SHMSZ, stdin);
 
 		semaphore_P(consumer);
-		sprintf(shm, "Message %4d from producer %d is \"%s\"",
-		 i, getpid(), readbuf);
+		/*sprintf(shm, "Message %4d from producer %d is \"%s\"",
+		 i, getpid(), readbuf);*/
+		sprintf(shm, "%s",readbuf);
 		semaphore_V(producer);
 
 
-		if(strcmp(readbuf, "end") == 0)
+		if(strncmp(readbuf, "end", 3) == 0)
 			break;
 	}
+	shmctl(shmid, IPC_RMID, shm);
 	return 0;
 }
